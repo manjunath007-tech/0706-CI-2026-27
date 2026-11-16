@@ -1,0 +1,551 @@
+Restaurant_ID,Restaurant_Name,City,Cuisine_Type,Established_Year,Online_Order,Table_Booking,Avg_Cost_For_Two,Avg_Delivery_Time_Mins,Discount_Percent,Customer_Rating,Total_Votes,Monthly_Orders,FSSAI_Batch_Code,Internal_Audit_Notes
+ZMT-5001,Coastal Grill 1,Pune,North Indian,2025,No,No,1220.0,46.2,29.8,3.5,984.0,2024.0,FSSAI-REG-542122,Verified menu v1
+ZMT-5002,Royal Express 2,Bengaluru,Chinese & Asian,2020,No,Yes,896.0,33.9,25.7,4.3,824.0,2311.0,FSSAI-REG-628982,Verified menu v1
+ZMT-5003,Namma Corner 3,Hyderabad,North Indian,2018,Yes,No,,29.6,39.3,3.9,728.0,1916.0,FSSAI-REG-425119,Standard listing
+ZMT-5004,Urban Diner 4,Mangaluru,South Indian,2024,Yes,Yes,897.0,34.5,22.7,3.8,873.0,1932.0,FSSAI-REG-748793,Onboarding complete
+ZMT-5005,Urban Hub 5,Bengaluru,South Indian,2023,Yes,Yes,1398.0,46.5,35.4,4.4,960.0,,FSSAI-REG-279786,Partner tier B
+ZMT-5006,Green Corner 6,Hyderabad,North Indian,2025,Yes,Yes,1431.0,25.1,36.5,3.8,731.0,1830.0,FSSAI-REG-982173,Partner tier B
+ZMT-5007,Tandoori Pavilion 7,Bengaluru,South Indian,2017,Yes,Yes,768.0,31.0,7.2,3.9,860.0,1883.0,FSSAI-REG-137402,Onboarding complete
+ZMT-5008,Crave junction 8,Hyderabad,Fast Food & Burgers,2015,Yes,No,1404.0,36.1,15.9,3.8,1267.0,1749.0,FSSAI-REG-248251,Onboarding complete
+ZMT-5009,Royal House 9,Mumbai,Chinese & Asian,2018,Yes,Yes,523.0,37.3,31.5,3.5,849.0,,FSSAI-REG-998226,Standard listing
+ZMT-5010,Golden Corner 10,Chennai,South Indian,2019,Yes,Yes,1152.0,32.9,5.9,4.1,814.0,1941.0,FSSAI-REG-527288,Standard listing
+ZMT-5011,Classic Platter 11,Mumbai,North Indian,2018,Yes,No,1340.0,51.2,13.0,3.8,,1764.0,FSSAI-REG-190072,Partner tier B
+ZMT-5012,Spice junction 12,Mumbai,Italian & Pizza,2019,Yes,No,961.0,27.9,30.3,4.0,1192.0,1905.0,FSSAI-REG-253726,Onboarding complete
+ZMT-5013,Aroma Grill 13,Mumbai,South Indian,2018,Yes,No,,30.6,28.9,4.5,915.0,2330.0,FSSAI-REG-542052,Partner tier B
+ZMT-5014,Street Platter 14,Mumbai,Cafe & Desserts,2022,Yes,No,1208.0,39.4,12.8,3.4,828.0,1183.0,FSSAI-REG-935826,Verified menu v1
+ZMT-5015,Flavours House 15,Bengaluru,Chinese & Asian,2019,Yes,Yes,1381.0,28.6,33.5,4.0,862.0,2250.0,FSSAI-REG-516731,Verified menu v1
+ZMT-5016,Tandoori Cafe 16,Mangaluru,North Indian,2015,Yes,Yes,832.0,20.5,22.2,4.1,1039.0,1946.0,FSSAI-REG-435871,Partner tier B
+ZMT-5017,Urban Cafe 17,Mumbai,South Indian,2024,Yes,No,556.0,,20.3,3.9,710.0,1798.0,FSSAI-REG-261744,Onboarding complete
+ZMT-5018,Classic Pavilion 18,Hyderabad,Chinese & Asian,2023,Yes,No,480.0,,33.0,4.0,761.0,2018.0,FSSAI-REG-382255,Verified menu v1
+ZMT-5019,Classic Grill 19,Bengaluru,Cafe & Desserts,2021,Yes,Yes,1680.0,42.1,39.4,2.6,689.0,1437.0,FSSAI-REG-653640,Partner tier B
+ZMT-5020,Namma Diner 20,Mumbai,Chinese & Asian,2019,No,Yes,970.0,37.7,25.9,3.3,627.0,1893.0,FSSAI-REG-568922,Onboarding complete
+ZMT-5021,Bistro Table 21,Hyderabad,South Indian,2024,No,No,378.0,31.9,19.4,3.5,667.0,1463.0,FSSAI-REG-474133,Verified menu v1
+ZMT-5022,Saffron Corner 22,Delhi NCR,Italian & Pizza,2019,Yes,Yes,773.0,34.3,21.4,3.8,849.0,1751.0,FSSAI-REG-892606,Partner tier B
+ZMT-5023,Green Corner 23,Mumbai,Cafe & Desserts,2017,Yes,No,738.0,23.2,28.2,3.8,684.0,1778.0,FSSAI-REG-998082,Partner tier B
+ZMT-5024,Street Darbar 24,Mumbai,Biryani & Mughlai,2023,Yes,No,,18.0,33.3,4.4,923.0,2322.0,FSSAI-REG-120561,Onboarding complete
+ZMT-5025,Urban Darbar 25,Bengaluru,North Indian,2019,Yes,No,1481.0,29.2,26.2,3.8,761.0,1806.0,FSSAI-REG-523569,Onboarding complete
+ZMT-5026,Green Grill 26,Mysuru,Cafe & Desserts,2016,Yes,No,,32.9,16.2,4.0,722.0,1906.0,FSSAI-REG-480279,Verified menu v1
+ZMT-5027,Royal Diner 27,Hyderabad,Coastal Seafood,2016,Yes,No,1631.0,40.0,33.5,4.1,1016.0,2202.0,FSSAI-REG-121589,Onboarding complete
+ZMT-5028,Royal Cafe 28,Bengaluru,Italian & Pizza,2021,Yes,No,1064.0,29.3,26.3,3.6,761.0,1614.0,FSSAI-REG-643915,Standard listing
+ZMT-5029,Flavours Hub 29,Chennai,South Indian,2019,Yes,No,283.0,36.7,25.0,3.9,1055.0,1872.0,FSSAI-REG-116517,Standard listing
+ZMT-5030,Golden Diner 30,Hyderabad,Coastal Seafood,2025,Yes,Yes,1715.0,34.9,28.9,3.6,729.0,1949.0,FSSAI-REG-136813,Partner tier B
+ZMT-5031,Royal Kitchen 1,Bengaluru,South Indian,2025,Yes,Yes,533.0,41.4,14.4,3.3,744.0,1313.0,FSSAI-REG-260458,Onboarding complete
+ZMT-5032,Namma Courtyard 2,Hyderabad,South Indian,2017,Yes,No,1719.0,18.0,31.1,4.6,951.0,2289.0,FSSAI-REG-321049,Partner tier B
+ZMT-5033,Spice Cafe 3,Mysuru,Fast Food & Burgers,2017,Yes,Yes,1619.0,32.5,33.9,3.9,1468.0,2028.0,FSSAI-REG-637235,Partner tier B
+ZMT-5034,Coastal Corner 4,Mumbai,North Indian,2016,Yes,No,316.0,38.1,15.1,3.5,781.0,1480.0,FSSAI-REG-325432,Verified menu v1
+ZMT-5035,Saffron Cafe 5,Chennai,North Indian,2021,Yes,No,428.0,34.8,24.3,3.8,943.0,1984.0,FSSAI-REG-818001,Partner tier B
+ZMT-5036,Bistro Platter 6,Bengaluru,North Indian,2018,Yes,Yes,548.0,32.1,25.6,4.1,1004.0,2036.0,FSSAI-REG-794341,Onboarding complete
+ZMT-5037,Crave Table 7,Mangaluru,Biryani & Mughlai,2020,Yes,No,694.0,38.6,33.1,3.6,1032.0,1938.0,FSSAI-REG-914663,Onboarding complete
+ZMT-5038,Street Platter 8,Mangaluru,North Indian,2021,Yes,No,231.0,20.4,38.8,3.9,863.0,2054.0,FSSAI-REG-416618,Onboarding complete
+ZMT-5039,Classic Grill 9,Mangaluru,South Indian,2019,Yes,No,1532.0,,13.1,3.5,899.0,1742.0,FSSAI-REG-544767,Onboarding complete
+ZMT-5040,Green junction 10,Bengaluru,Chinese & Asian,2015,No,No,1406.0,36.9,30.0,4.0,958.0,2082.0,FSSAI-REG-138856,Partner tier B
+ZMT-5041,Royal Cafe 11,Mangaluru,Cafe & Desserts,2015,Yes,Yes,1451.0,34.5,15.5,4.0,883.0,1704.0,FSSAI-REG-279637,Onboarding complete
+ZMT-5042,Street Express 12,Bengaluru,Cafe & Desserts,2015,No,Yes,659.0,25.2,7.5,3.7,769.0,1765.0,FSSAI-REG-774007,Standard listing
+ZMT-5043,Tandoori House 13,Mysuru,Chinese & Asian,2017,Yes,No,341.0,23.5,31.1,3.8,710.0,2202.0,FSSAI-REG-379134,Verified menu v1
+ZMT-5044,Street Express 14,Mumbai,Chinese & Asian,2020,Yes,Yes,1138.0,25.8,14.6,3.8,,1650.0,FSSAI-REG-443367,Standard listing
+ZMT-5045,Urban Diner 15,Mangaluru,South Indian,2017,Yes,No,376.0,28.4,31.2,,786.0,1845.0,FSSAI-REG-734907,Standard listing
+ZMT-5046,Golden Grill 16,Mumbai,South Indian,2019,No,No,837.0,43.9,36.0,3.4,841.0,1886.0,FSSAI-REG-331591,Verified menu v1
+ZMT-5047,Aroma Pavilion 17,Hyderabad,Biryani & Mughlai,2016,Yes,Yes,871.0,18.8,34.7,4.5,1130.0,2284.0,FSSAI-REG-288425,Standard listing
+ZMT-5048,Green Grill 18,Mangaluru,Chinese & Asian,2015,Yes,No,1295.0,32.5,24.2,3.3,640.0,1732.0,FSSAI-REG-914754,Verified menu v1
+ZMT-5049,Flavours Darbar 19,Bengaluru,South Indian,2024,Yes,Yes,1325.0,41.2,23.2,3.6,687.0,1527.0,FSSAI-REG-580014,Verified menu v1
+ZMT-5050,Coastal Bites 20,Mangaluru,Fast Food & Burgers,2023,No,No,655.0,27.3,19.0,2.8,2061.0,1660.0,FSSAI-REG-118134,Verified menu v1
+ZMT-5051,Royal Table 21,Delhi NCR,South Indian,2017,Yes,No,1704.0,37.7,12.6,,1134.0,1842.0,FSSAI-REG-172554,Standard listing
+ZMT-5052,Golden Hub 22,Hyderabad,North Indian,2018,No,No,1659.0,42.5,37.6,3.9,702.0,1943.0,FSSAI-REG-781111,Partner tier B
+ZMT-5053,Flavours Corner 23,Delhi NCR,Chinese & Asian,2024,No,Yes,1137.0,28.6,28.4,3.3,956.0,1920.0,FSSAI-REG-855478,Partner tier B
+ZMT-5054,Coastal Hub 24,Chennai,North Indian,2023,Yes,No,673.0,26.0,33.0,4.1,743.0,2153.0,FSSAI-REG-292663,Partner tier B
+ZMT-5055,Bistro Grill 25,Mumbai,Cafe & Desserts,2017,Yes,No,441.0,22.9,16.2,4.1,832.0,2053.0,FSSAI-REG-364027,Standard listing
+ZMT-5056,Tandoori Platter 26,Mangaluru,South Indian,2024,No,No,1661.0,31.1,29.5,3.4,657.0,1751.0,FSSAI-REG-383401,Partner tier B
+ZMT-5057,Tandoori Table 27,Delhi NCR,Fast Food & Burgers,2021,Yes,Yes,1715.0,38.7,35.7,4.1,1025.0,2216.0,FSSAI-REG-739888,Partner tier B
+ZMT-5058,Spice Corner 28,Bengaluru,South Indian,2017,Yes,Yes,1586.0,31.2,5.2,3.7,1035.0,1568.0,FSSAI-REG-778466,Verified menu v1
+ZMT-5059,Tandoori Diner 29,Bengaluru,North Indian,2025,No,No,1299.0,27.7,6.5,3.5,912.0,1523.0,FSSAI-REG-193716,Onboarding complete
+ZMT-5060,Flavours Bites 30,Mysuru,Biryani & Mughlai,2023,Yes,No,540.0,31.1,38.2,3.7,706.0,1788.0,FSSAI-REG-316804,Partner tier B
+ZMT-5061,Flavours Kitchen 1,Pune,North Indian,2018,Yes,Yes,1344.0,,12.3,4.1,1036.0,1751.0,FSSAI-REG-540680,Partner tier B
+ZMT-5062,Classic Corner 2,Delhi NCR,North Indian,2018,Yes,No,800.0,33.9,35.1,4.0,1089.0,2232.0,FSSAI-REG-489528,Partner tier B
+ZMT-5063,Golden Platter 3,Mumbai,North Indian,2019,No,No,1112.0,33.2,9.9,3.2,716.0,1133.0,FSSAI-REG-850012,Verified menu v1
+ZMT-5064,Bistro House 4,Mumbai,North Indian,2016,No,Yes,335.0,52.0,24.4,3.7,876.0,1983.0,FSSAI-REG-924487,Onboarding complete
+ZMT-5065,Tandoori Cafe 5,Mumbai,North Indian,2024,Yes,No,1380.0,19.0,36.9,4.3,882.0,2305.0,FSSAI-REG-597804,Standard listing
+ZMT-5066,Royal Bites 6,Bengaluru,Coastal Seafood,2016,Yes,Yes,676.0,28.1,35.5,4.7,974.0,2162.0,FSSAI-REG-122660,Onboarding complete
+ZMT-5067,Spice Table 7,Chennai,Fast Food & Burgers,2016,Yes,No,873.0,25.6,11.7,4.1,1171.0,1804.0,FSSAI-REG-507735,Verified menu v1
+ZMT-5068,Tandoori Cafe 8,Pune,Chinese & Asian,2025,No,No,1517.0,33.6,30.3,3.6,1116.0,1829.0,FSSAI-REG-263433,Verified menu v1
+ZMT-5069,Urban Corner 9,Hyderabad,South Indian,2020,Yes,Yes,1679.0,32.4,10.5,3.7,677.0,1669.0,FSSAI-REG-211943,Standard listing
+ZMT-5070,Namma Courtyard 10,Hyderabad,South Indian,2020,No,Yes,1668.0,32.2,5.2,3.4,675.0,1652.0,FSSAI-REG-796519,Onboarding complete
+ZMT-5071,Urban House 11,Mysuru,North Indian,2015,Yes,No,441.0,33.6,19.8,4.0,1344.0,1814.0,FSSAI-REG-226171,Standard listing
+ZMT-5072,Green Kitchen 12,Mangaluru,Cafe & Desserts,2021,Yes,No,1637.0,25.4,30.2,3.7,708.0,1998.0,FSSAI-REG-823538,Verified menu v1
+ZMT-5073,Classic Corner 13,Chennai,Coastal Seafood,2025,No,Yes,669.0,32.1,22.9,3.9,770.0,1969.0,FSSAI-REG-874879,Partner tier B
+ZMT-5074,Coastal Kitchen 14,Bengaluru,Fast Food & Burgers,2015,Yes,No,438.0,38.4,28.9,4.1,776.0,2088.0,FSSAI-REG-167033,Standard listing
+ZMT-5075,Crave Table 15,Hyderabad,Biryani & Mughlai,2019,Yes,No,1758.0,59.0,7.8,3.2,588.0,1584.0,FSSAI-REG-834563,Standard listing
+ZMT-5076,Green House 16,Hyderabad,Biryani & Mughlai,2025,Yes,No,1650.0,,6.2,4.1,776.0,1636.0,FSSAI-REG-318785,Partner tier B
+ZMT-5077,Bistro junction 17,Mangaluru,Fast Food & Burgers,2018,Yes,No,965.0,18.6,26.3,4.1,1067.0,2214.0,FSSAI-REG-699627,Partner tier B
+ZMT-5078,Spice Courtyard 18,Bengaluru,North Indian,2019,Yes,No,813.0,34.5,20.7,3.1,562.0,1471.0,FSSAI-REG-180707,Verified menu v1
+ZMT-5079,Classic Diner 19,Mumbai,Italian & Pizza,2025,Yes,Yes,1597.0,55.1,17.7,3.3,848.0,1346.0,FSSAI-REG-918266,Onboarding complete
+ZMT-5080,Spice House 20,Hyderabad,Chinese & Asian,2020,Yes,No,447.0,25.9,6.7,4.0,852.0,1863.0,FSSAI-REG-286784,Standard listing
+ZMT-5081,Bistro Grill 21,Hyderabad,Fast Food & Burgers,2023,Yes,Yes,391.0,28.8,12.5,,820.0,1806.0,FSSAI-REG-753131,Partner tier B
+ZMT-5082,Crave Diner 22,Bengaluru,North Indian,2016,Yes,Yes,974.0,48.0,23.0,3.8,814.0,1837.0,FSSAI-REG-930339,Onboarding complete
+ZMT-5083,Saffron Pavilion 23,Hyderabad,Italian & Pizza,2015,Yes,No,,34.4,24.4,3.9,789.0,1833.0,FSSAI-REG-676527,Partner tier B
+ZMT-5084,Aroma Corner 24,Bengaluru,South Indian,2025,Yes,No,1356.0,28.3,12.8,3.4,865.0,1495.0,FSSAI-REG-498029,Onboarding complete
+ZMT-5085,Spice Bites 25,Pune,Fast Food & Burgers,2025,No,Yes,545.0,35.2,28.0,3.9,816.0,1977.0,FSSAI-REG-349664,Verified menu v1
+ZMT-5086,Saffron Grill 26,Bengaluru,Biryani & Mughlai,2019,No,No,813.0,51.7,18.4,3.1,566.0,1544.0,FSSAI-REG-835557,Partner tier B
+ZMT-5087,Golden House 27,Mysuru,Chinese & Asian,2024,No,No,413.0,33.4,35.7,3.9,1019.0,1607.0,FSSAI-REG-350319,Standard listing
+ZMT-5088,Royal Hub 28,Bengaluru,North Indian,2016,Yes,No,,33.4,21.9,3.9,,1951.0,FSSAI-REG-998886,Onboarding complete
+ZMT-5089,Golden House 29,Bengaluru,Italian & Pizza,2015,Yes,No,1702.0,34.2,29.5,4.5,855.0,2210.0,FSSAI-REG-731867,Standard listing
+ZMT-5090,Golden Courtyard 30,Pune,North Indian,2018,Yes,No,1203.0,45.0,22.0,3.5,733.0,1850.0,FSSAI-REG-381899,Standard listing
+ZMT-5091,Golden Courtyard 1,Mumbai,North Indian,2023,Yes,Yes,1312.0,27.8,39.9,4.0,1136.0,2138.0,FSSAI-REG-295381,Verified menu v1
+ZMT-5092,Golden Express 2,Pune,North Indian,2022,Yes,Yes,1702.0,35.9,11.1,3.5,743.0,,FSSAI-REG-426203,Partner tier B
+ZMT-5093,Golden Courtyard 3,Bengaluru,Fast Food & Burgers,2015,No,No,,,24.9,3.6,1232.0,1782.0,FSSAI-REG-229633,Onboarding complete
+ZMT-5094,Green Kitchen 4,Delhi NCR,South Indian,2015,Yes,No,429.0,29.8,37.9,4.1,802.0,2442.0,FSSAI-REG-644904,Onboarding complete
+ZMT-5095,Bistro Hub 5,Mysuru,North Indian,2018,No,Yes,590.0,28.6,33.0,3.5,1095.0,1867.0,FSSAI-REG-984260,Standard listing
+ZMT-5096,Tandoori Express 6,Bengaluru,North Indian,2016,Yes,Yes,1577.0,30.6,25.9,3.8,,1826.0,FSSAI-REG-709628,Partner tier B
+ZMT-5097,Tandoori Table 7,Hyderabad,Biryani & Mughlai,2023,Yes,Yes,1420.0,,18.6,3.8,707.0,1764.0,FSSAI-REG-990518,Partner tier B
+ZMT-5098,Aroma junction 8,Pune,Italian & Pizza,2025,Yes,Yes,229.0,33.0,9.9,3.6,864.0,1943.0,FSSAI-REG-239022,Verified menu v1
+ZMT-5099,Tandoori Courtyard 9,Hyderabad,Biryani & Mughlai,2017,Yes,No,1365.0,36.3,39.6,3.4,621.0,1934.0,FSSAI-REG-971203,Partner tier B
+ZMT-5100,Coastal House 10,Bengaluru,Fast Food & Burgers,2019,Yes,No,223.0,32.6,27.8,3.7,677.0,2000.0,FSSAI-REG-715767,Onboarding complete
+ZMT-5101,Classic Diner 11,Bengaluru,North Indian,2024,Yes,No,1214.0,43.3,11.3,3.8,1258.0,1582.0,FSSAI-REG-722082,Partner tier B
+ZMT-5102,Flavours Pavilion 12,Pune,South Indian,2025,No,Yes,492.0,27.2,6.4,3.5,716.0,1740.0,FSSAI-REG-755824,Onboarding complete
+ZMT-5103,Flavours Hub 13,Hyderabad,Coastal Seafood,2021,Yes,No,,43.2,31.6,3.7,697.0,1981.0,FSSAI-REG-340370,Standard listing
+ZMT-5104,Royal Table 14,Pune,Chinese & Asian,2019,Yes,No,1294.0,34.3,34.7,3.7,697.0,2054.0,FSSAI-REG-492254,Verified menu v1
+ZMT-5105,Saffron Pavilion 15,Mumbai,South Indian,2024,Yes,Yes,1359.0,38.7,11.0,3.4,789.0,1596.0,FSSAI-REG-607797,Standard listing
+ZMT-5106,Spice junction 16,Mysuru,Cafe & Desserts,2018,Yes,No,1489.0,49.6,34.6,,777.0,1948.0,FSSAI-REG-972435,Partner tier B
+ZMT-5107,Street Hub 17,Mumbai,Biryani & Mughlai,2020,Yes,Yes,802.0,37.0,14.2,3.9,887.0,1865.0,FSSAI-REG-343271,Verified menu v1
+ZMT-5108,Flavours Table 18,Hyderabad,Biryani & Mughlai,2022,No,Yes,1344.0,31.9,23.6,,916.0,1318.0,FSSAI-REG-252288,Onboarding complete
+ZMT-5109,Aroma Darbar 19,Mumbai,Italian & Pizza,2019,Yes,No,1535.0,34.7,21.1,3.3,636.0,1592.0,FSSAI-REG-941075,Onboarding complete
+ZMT-5110,Saffron Express 20,Mumbai,South Indian,2020,Yes,Yes,578.0,39.2,21.3,3.6,1259.0,1670.0,FSSAI-REG-291667,Onboarding complete
+ZMT-5111,Flavours Diner 21,Hyderabad,South Indian,2018,No,No,740.0,34.0,34.1,3.5,636.0,1898.0,FSSAI-REG-769332,Partner tier B
+ZMT-5112,Golden Corner 22,Pune,North Indian,2025,Yes,Yes,281.0,38.7,36.9,3.5,773.0,1978.0,FSSAI-REG-620622,Standard listing
+ZMT-5113,Namma Diner 23,Hyderabad,Cafe & Desserts,2025,Yes,No,1445.0,38.2,34.6,4.6,846.0,2244.0,FSSAI-REG-614730,Standard listing
+ZMT-5114,Flavours junction 24,Chennai,Cafe & Desserts,2024,No,No,,35.4,37.7,3.3,983.0,2114.0,FSSAI-REG-648871,Onboarding complete
+ZMT-5115,Crave House 25,Chennai,Biryani & Mughlai,2016,Yes,Yes,543.0,29.3,26.6,3.4,834.0,1605.0,FSSAI-REG-193558,Partner tier B
+ZMT-5116,Tandoori Diner 26,Bengaluru,Fast Food & Burgers,2023,Yes,Yes,1647.0,38.4,38.6,4.5,889.0,2243.0,FSSAI-REG-963670,Partner tier B
+ZMT-5117,Classic junction 27,Mumbai,North Indian,2019,Yes,Yes,1554.0,18.6,24.1,3.8,1257.0,1754.0,FSSAI-REG-278054,Verified menu v1
+ZMT-5118,Saffron Express 28,Bengaluru,Cafe & Desserts,2017,Yes,No,749.0,37.0,16.8,4.0,1004.0,1957.0,FSSAI-REG-700812,Partner tier B
+ZMT-5119,Coastal Cafe 29,Delhi NCR,Fast Food & Burgers,2023,Yes,Yes,757.0,32.0,17.0,2.9,853.0,1317.0,FSSAI-REG-534101,Partner tier B
+ZMT-5120,Namma Courtyard 30,Chennai,North Indian,2024,Yes,No,1202.0,28.3,20.5,3.8,1010.0,1703.0,FSSAI-REG-233746,Verified menu v1
+ZMT-5121,Classic Express 1,Bengaluru,Biryani & Mughlai,2018,Yes,Yes,887.0,42.0,22.3,3.6,1085.0,1799.0,FSSAI-REG-580343,Standard listing
+ZMT-5122,Namma Express 2,Mumbai,South Indian,2017,Yes,No,524.0,31.8,25.4,3.8,870.0,1786.0,FSSAI-REG-423446,Partner tier B
+ZMT-5123,Golden Kitchen 3,Pune,Coastal Seafood,2016,Yes,No,1755.0,31.1,37.2,3.9,1040.0,1929.0,FSSAI-REG-300782,Standard listing
+ZMT-5124,Aroma Bites 4,Mysuru,South Indian,2023,No,Yes,173.0,43.2,22.2,4.3,1024.0,2103.0,FSSAI-REG-317892,Verified menu v1
+ZMT-5125,Bistro Kitchen 5,Mumbai,South Indian,2016,Yes,No,257.0,30.8,23.2,3.9,1143.0,,FSSAI-REG-127555,Standard listing
+ZMT-5126,Urban Express 6,Pune,Fast Food & Burgers,2023,Yes,Yes,1005.0,22.3,21.5,4.4,855.0,1958.0,FSSAI-REG-363572,Partner tier B
+ZMT-5127,Street Pavilion 7,Delhi NCR,Biryani & Mughlai,2020,Yes,No,1118.0,29.6,6.7,3.7,890.0,1539.0,FSSAI-REG-248816,Verified menu v1
+ZMT-5128,Namma Corner 8,Chennai,Fast Food & Burgers,2022,Yes,No,1373.0,,25.5,,831.0,,FSSAI-REG-783461,Partner tier B
+ZMT-5129,Classic Hub 9,Pune,South Indian,2017,No,Yes,253.0,37.4,23.5,3.0,721.0,1738.0,FSSAI-REG-578431,Onboarding complete
+ZMT-5130,Bistro Darbar 10,Hyderabad,Chinese & Asian,2018,Yes,No,848.0,22.0,21.1,4.1,923.0,2237.0,FSSAI-REG-213165,Standard listing
+ZMT-5131,Green Cafe 11,Delhi NCR,Chinese & Asian,2016,Yes,Yes,406.0,32.4,19.4,3.1,772.0,1354.0,FSSAI-REG-563986,Partner tier B
+ZMT-5132,Royal Express 12,Chennai,Biryani & Mughlai,2017,Yes,No,919.0,29.1,27.1,4.2,947.0,2077.0,FSSAI-REG-565628,Onboarding complete
+ZMT-5133,Crave House 13,Hyderabad,Cafe & Desserts,2023,Yes,No,1339.0,46.4,37.8,3.7,999.0,2157.0,FSSAI-REG-113339,Partner tier B
+ZMT-5134,Flavours Hub 14,Hyderabad,Cafe & Desserts,2018,No,Yes,1105.0,45.0,30.8,3.2,1188.0,1928.0,FSSAI-REG-266121,Standard listing
+ZMT-5135,Saffron Platter 15,Mumbai,Cafe & Desserts,2023,Yes,Yes,1629.0,23.7,12.6,3.7,948.0,1739.0,FSSAI-REG-334073,Verified menu v1
+ZMT-5136,Crave Platter 16,Bengaluru,Biryani & Mughlai,2022,Yes,Yes,1411.0,35.8,16.2,4.0,922.0,1840.0,FSSAI-REG-121888,Partner tier B
+ZMT-5137,Crave Platter 17,Pune,Chinese & Asian,2024,Yes,Yes,351.0,28.8,36.2,3.6,672.0,1933.0,FSSAI-REG-471270,Verified menu v1
+ZMT-5138,Saffron Platter 18,Hyderabad,South Indian,2015,Yes,Yes,1390.0,26.7,31.8,3.8,770.0,1785.0,FSSAI-REG-524967,Standard listing
+ZMT-5139,Aroma Hub 19,Bengaluru,Coastal Seafood,2017,Yes,No,,30.9,31.9,3.6,736.0,2071.0,FSSAI-REG-952151,Partner tier B
+ZMT-5140,Aroma Bites 20,Mumbai,Biryani & Mughlai,2024,No,No,470.0,27.1,16.1,3.9,1240.0,1936.0,FSSAI-REG-866908,Verified menu v1
+ZMT-5141,Namma Bites 21,Chennai,Chinese & Asian,2020,Yes,No,730.0,30.5,35.3,4.2,1247.0,2371.0,FSSAI-REG-462541,Standard listing
+ZMT-5142,Green Cafe 22,Mumbai,Italian & Pizza,2024,Yes,No,1373.0,33.8,32.8,3.4,630.0,1804.0,FSSAI-REG-379627,Verified menu v1
+ZMT-5143,Crave Darbar 23,Mangaluru,South Indian,2020,Yes,No,1175.0,30.9,10.5,4.4,834.0,2015.0,FSSAI-REG-947860,Verified menu v1
+ZMT-5144,Tandoori Pavilion 24,Mumbai,North Indian,2024,Yes,Yes,1227.0,37.8,14.8,4.2,815.0,1955.0,FSSAI-REG-494125,Verified menu v1
+ZMT-5145,Crave Pavilion 25,Mumbai,Italian & Pizza,2025,No,Yes,1304.0,36.7,14.2,3.3,654.0,1562.0,FSSAI-REG-548408,Partner tier B
+ZMT-5146,Namma Darbar 26,Bengaluru,Biryani & Mughlai,2017,Yes,Yes,1010.0,22.0,12.8,4.1,1103.0,1533.0,FSSAI-REG-285632,Partner tier B
+ZMT-5147,Saffron Darbar 27,Delhi NCR,Coastal Seafood,2022,No,No,630.0,25.0,6.0,3.1,1065.0,1457.0,FSSAI-REG-482197,Standard listing
+ZMT-5148,Coastal Express 28,Bengaluru,Fast Food & Burgers,2018,Yes,No,1325.0,31.5,32.1,3.8,840.0,1805.0,FSSAI-REG-465271,Verified menu v1
+ZMT-5149,Classic Cafe 29,Mangaluru,South Indian,2022,Yes,Yes,,29.3,15.9,3.4,873.0,1657.0,FSSAI-REG-580650,Partner tier B
+ZMT-5150,Bistro Table 30,Bengaluru,Fast Food & Burgers,2020,Yes,Yes,1744.0,21.3,33.7,4.2,1098.0,2187.0,FSSAI-REG-659518,Standard listing
+ZMT-5151,Aroma Courtyard 1,Pune,Biryani & Mughlai,2021,Yes,No,1010.0,30.0,11.5,3.8,1428.0,1807.0,FSSAI-REG-204933,Onboarding complete
+ZMT-5152,Tandoori Grill 2,Hyderabad,Coastal Seafood,2023,No,Yes,977.0,44.5,22.8,2.7,647.0,1323.0,FSSAI-REG-993624,Standard listing
+ZMT-5153,Tandoori Hub 3,Bengaluru,Cafe & Desserts,2017,Yes,Yes,790.0,29.5,36.8,3.5,890.0,1907.0,FSSAI-REG-876773,Standard listing
+ZMT-5154,Green Hub 4,Mangaluru,Cafe & Desserts,2017,Yes,Yes,1296.0,29.1,35.0,4.0,,2170.0,FSSAI-REG-492696,Verified menu v1
+ZMT-5155,Classic Kitchen 5,Chennai,Biryani & Mughlai,2016,Yes,No,954.0,22.9,38.4,4.3,865.0,2343.0,FSSAI-REG-494365,Onboarding complete
+ZMT-5156,Spice House 6,Bengaluru,Coastal Seafood,2024,No,Yes,331.0,49.0,33.7,3.5,1580.0,1701.0,FSSAI-REG-982291,Onboarding complete
+ZMT-5157,Green Table 7,Pune,Biryani & Mughlai,2018,Yes,Yes,1000.0,,21.2,3.8,732.0,1940.0,FSSAI-REG-815139,Verified menu v1
+ZMT-5158,Urban Diner 8,Bengaluru,Chinese & Asian,2017,No,No,,20.4,21.6,4.0,972.0,1804.0,FSSAI-REG-883931,Standard listing
+ZMT-5159,Urban Cafe 9,Delhi NCR,North Indian,2015,Yes,Yes,1580.0,30.3,11.6,4.0,792.0,1869.0,FSSAI-REG-349186,Onboarding complete
+ZMT-5160,Spice Darbar 10,Mangaluru,Fast Food & Burgers,2025,Yes,No,1217.0,28.7,24.0,3.9,758.0,2074.0,FSSAI-REG-758178,Verified menu v1
+ZMT-5161,Bistro Kitchen 11,Bengaluru,North Indian,2018,Yes,No,1444.0,33.4,32.9,3.6,662.0,1752.0,FSSAI-REG-132332,Verified menu v1
+ZMT-5162,Classic Kitchen 12,Pune,Coastal Seafood,2019,Yes,No,444.0,34.2,31.7,3.5,835.0,2051.0,FSSAI-REG-789456,Verified menu v1
+ZMT-5163,Tandoori Corner 13,Mangaluru,Chinese & Asian,2015,Yes,No,1711.0,47.0,19.7,3.8,701.0,2004.0,FSSAI-REG-870260,Partner tier B
+ZMT-5164,Aroma Darbar 14,Chennai,Chinese & Asian,2024,Yes,No,1020.0,24.1,35.5,4.0,967.0,1973.0,FSSAI-REG-978186,Onboarding complete
+ZMT-5165,Street Table 15,Mysuru,Cafe & Desserts,2017,Yes,No,1221.0,40.4,25.9,3.6,1024.0,2087.0,FSSAI-REG-405649,Partner tier B
+ZMT-5166,Classic Grill 16,Pune,South Indian,2021,Yes,No,1330.0,34.4,36.8,3.9,1146.0,2024.0,FSSAI-REG-437683,Partner tier B
+ZMT-5167,Namma Darbar 17,Mangaluru,Chinese & Asian,2017,No,No,870.0,21.0,23.0,3.6,1374.0,1711.0,FSSAI-REG-815354,Partner tier B
+ZMT-5168,Royal Corner 18,Bengaluru,North Indian,2024,Yes,No,287.0,33.0,10.3,3.6,1232.0,1543.0,FSSAI-REG-717753,Partner tier B
+ZMT-5169,Urban Pavilion 19,Mangaluru,Chinese & Asian,2016,Yes,No,953.0,33.3,36.3,3.3,662.0,1930.0,FSSAI-REG-791262,Partner tier B
+ZMT-5170,Golden Platter 20,Bengaluru,Chinese & Asian,2024,Yes,No,1416.0,31.6,10.5,3.6,1311.0,1794.0,FSSAI-REG-959935,Standard listing
+ZMT-5171,Classic Darbar 21,Delhi NCR,Cafe & Desserts,2015,No,No,896.0,32.3,10.2,2.7,498.0,1145.0,FSSAI-REG-995667,Onboarding complete
+ZMT-5172,Golden Hub 22,Delhi NCR,Chinese & Asian,2024,Yes,No,1462.0,22.9,33.9,4.4,889.0,2227.0,FSSAI-REG-442870,Standard listing
+ZMT-5173,Bistro Darbar 23,Pune,Chinese & Asian,2022,Yes,No,417.0,31.6,28.0,4.1,773.0,1952.0,FSSAI-REG-815835,Standard listing
+ZMT-5174,Spice Hub 24,Mysuru,North Indian,2020,Yes,Yes,1659.0,32.5,38.9,3.8,685.0,1836.0,FSSAI-REG-459490,Onboarding complete
+ZMT-5175,Crave Courtyard 25,Mysuru,North Indian,2015,Yes,Yes,854.0,35.5,11.2,3.9,759.0,1715.0,FSSAI-REG-302884,Standard listing
+ZMT-5176,Flavours Corner 26,Bengaluru,Coastal Seafood,2023,Yes,No,848.0,30.0,11.5,4.0,1758.0,1544.0,FSSAI-REG-413807,Onboarding complete
+ZMT-5177,Saffron Platter 27,Hyderabad,Coastal Seafood,2020,Yes,No,967.0,27.3,32.1,3.7,716.0,1895.0,FSSAI-REG-536070,Partner tier B
+ZMT-5178,Saffron Kitchen 28,Hyderabad,Biryani & Mughlai,2023,Yes,No,1023.0,36.9,14.2,3.1,578.0,1391.0,FSSAI-REG-963023,Partner tier B
+ZMT-5179,Golden House 29,Bengaluru,Biryani & Mughlai,2025,Yes,No,1185.0,36.7,7.0,3.7,681.0,1755.0,FSSAI-REG-895168,Verified menu v1
+ZMT-5180,Royal Corner 30,Bengaluru,Fast Food & Burgers,2024,Yes,Yes,1743.0,38.7,24.5,3.8,921.0,1854.0,FSSAI-REG-932097,Partner tier B
+ZMT-5181,Flavours Express 1,Mangaluru,Biryani & Mughlai,2017,Yes,Yes,548.0,29.8,6.8,3.7,889.0,1610.0,FSSAI-REG-611764,Onboarding complete
+ZMT-5182,Aroma Cafe 2,Bengaluru,Fast Food & Burgers,2023,Yes,No,1031.0,37.4,9.0,3.8,974.0,1748.0,FSSAI-REG-507262,Partner tier B
+ZMT-5183,Crave Courtyard 3,Mangaluru,North Indian,2018,Yes,No,861.0,23.9,9.5,4.1,1825.0,1848.0,FSSAI-REG-391448,Standard listing
+ZMT-5184,Green Cafe 4,Bengaluru,Biryani & Mughlai,2025,Yes,No,720.0,,25.1,4.0,1015.0,1939.0,FSSAI-REG-299006,Partner tier B
+ZMT-5185,Street Bites 5,Hyderabad,Cafe & Desserts,2024,Yes,No,386.0,38.0,17.9,3.2,,1569.0,FSSAI-REG-945095,Partner tier B
+ZMT-5186,Street Corner 6,Mumbai,North Indian,2020,Yes,No,1438.0,45.2,12.8,3.8,714.0,1872.0,FSSAI-REG-607357,Standard listing
+ZMT-5187,Aroma Table 7,Pune,North Indian,2015,No,Yes,1521.0,18.0,26.1,4.2,1083.0,2043.0,FSSAI-REG-422996,Onboarding complete
+ZMT-5188,Street Courtyard 8,Mysuru,North Indian,2022,Yes,Yes,1115.0,,11.1,3.5,925.0,1422.0,FSSAI-REG-588997,Verified menu v1
+ZMT-5189,Tandoori Table 9,Chennai,Fast Food & Burgers,2022,No,No,,41.0,15.3,3.6,802.0,1706.0,FSSAI-REG-163554,Onboarding complete
+ZMT-5190,Crave Diner 10,Chennai,Chinese & Asian,2022,No,No,1537.0,36.4,27.9,3.6,691.0,1870.0,FSSAI-REG-435261,Onboarding complete
+ZMT-5191,Crave Cafe 11,Mangaluru,Biryani & Mughlai,2021,Yes,Yes,444.0,34.9,37.9,3.6,696.0,1929.0,FSSAI-REG-796033,Verified menu v1
+ZMT-5192,Crave Darbar 12,Bengaluru,Cafe & Desserts,2019,Yes,No,1720.0,46.0,24.4,3.4,800.0,1674.0,FSSAI-REG-945409,Standard listing
+ZMT-5193,Tandoori Pavilion 13,Pune,Biryani & Mughlai,2015,Yes,No,683.0,29.5,38.9,4.1,786.0,2046.0,FSSAI-REG-457146,Partner tier B
+ZMT-5194,Classic Platter 14,Pune,South Indian,2023,Yes,No,1773.0,38.1,30.4,,916.0,2326.0,FSSAI-REG-681084,Onboarding complete
+ZMT-5195,Namma junction 15,Chennai,Coastal Seafood,2015,Yes,No,501.0,29.7,39.6,3.6,737.0,2064.0,FSSAI-REG-469592,Standard listing
+ZMT-5196,Royal Pavilion 16,Mumbai,Fast Food & Burgers,2020,Yes,No,1555.0,25.9,22.9,3.4,977.0,1703.0,FSSAI-REG-511419,Onboarding complete
+ZMT-5197,Tandoori Corner 17,Pune,North Indian,2017,Yes,No,1387.0,39.7,34.6,3.4,796.0,1701.0,FSSAI-REG-971445,Onboarding complete
+ZMT-5198,Namma House 18,Hyderabad,South Indian,2024,Yes,No,1105.0,43.8,25.2,4.9,,2335.0,FSSAI-REG-457524,Onboarding complete
+ZMT-5199,Classic Corner 19,Bengaluru,Fast Food & Burgers,2023,No,No,185.0,23.4,7.6,4.0,901.0,1800.0,FSSAI-REG-591811,Onboarding complete
+ZMT-5200,Royal Table 20,Hyderabad,North Indian,2018,No,No,356.0,42.3,7.8,3.7,1012.0,1604.0,FSSAI-REG-237095,Onboarding complete
+ZMT-5201,Coastal Corner 21,Mumbai,Biryani & Mughlai,2019,No,No,1718.0,41.9,28.4,3.7,1099.0,1685.0,FSSAI-REG-162584,Partner tier B
+ZMT-5202,Classic Table 22,Bengaluru,North Indian,2025,Yes,No,933.0,25.4,13.8,3.8,860.0,1892.0,FSSAI-REG-420608,Partner tier B
+ZMT-5203,Crave Platter 23,Mumbai,Fast Food & Burgers,2015,Yes,No,382.0,34.8,22.0,4.4,1070.0,2092.0,FSSAI-REG-774017,Onboarding complete
+ZMT-5204,Crave Pavilion 24,Delhi NCR,Biryani & Mughlai,2020,No,No,670.0,24.8,21.1,3.4,620.0,1618.0,FSSAI-REG-129715,Verified menu v1
+ZMT-5205,Classic Corner 25,Hyderabad,Biryani & Mughlai,2017,Yes,No,1089.0,25.4,22.5,4.2,794.0,1845.0,FSSAI-REG-753318,Onboarding complete
+ZMT-5206,Saffron House 26,Hyderabad,Coastal Seafood,2020,No,Yes,1036.0,34.3,6.6,3.5,791.0,1510.0,FSSAI-REG-114550,Onboarding complete
+ZMT-5207,Crave Darbar 27,Bengaluru,Coastal Seafood,2016,No,No,1671.0,22.7,10.9,4.3,925.0,2286.0,FSSAI-REG-639290,Standard listing
+ZMT-5208,Aroma junction 28,Mysuru,Chinese & Asian,2021,No,Yes,1490.0,30.5,23.5,3.8,799.0,1805.0,FSSAI-REG-786816,Onboarding complete
+ZMT-5209,Flavours Platter 29,Mumbai,Fast Food & Burgers,2017,Yes,No,320.0,41.8,7.9,3.7,889.0,1430.0,FSSAI-REG-366754,Standard listing
+ZMT-5210,Bistro Courtyard 30,Hyderabad,North Indian,2021,Yes,No,1022.0,44.7,16.3,3.2,776.0,1452.0,FSSAI-REG-364398,Partner tier B
+ZMT-5211,Spice House 1,Bengaluru,Coastal Seafood,2022,Yes,No,558.0,22.4,5.9,3.7,918.0,1636.0,FSSAI-REG-690285,Partner tier B
+ZMT-5212,Golden Cafe 2,Mumbai,Coastal Seafood,2025,Yes,No,538.0,30.1,34.5,3.7,1104.0,1860.0,FSSAI-REG-247521,Onboarding complete
+ZMT-5213,Royal Diner 3,Mysuru,North Indian,2025,Yes,Yes,,47.5,26.8,3.8,1081.0,1993.0,FSSAI-REG-517499,Standard listing
+ZMT-5214,Royal Corner 4,Pune,South Indian,2018,Yes,Yes,567.0,22.3,15.6,3.6,1110.0,2009.0,FSSAI-REG-423715,Partner tier B
+ZMT-5215,Street Hub 5,Delhi NCR,South Indian,2020,Yes,No,1673.0,32.4,8.9,4.4,1011.0,2090.0,FSSAI-REG-841484,Standard listing
+ZMT-5216,Tandoori Hub 6,Hyderabad,North Indian,2017,Yes,Yes,516.0,35.9,29.5,4.3,1200.0,2296.0,FSSAI-REG-105296,Onboarding complete
+ZMT-5217,Crave Cafe 7,Chennai,South Indian,2020,Yes,Yes,1630.0,19.8,20.4,4.5,836.0,2113.0,FSSAI-REG-631828,Verified menu v1
+ZMT-5218,Namma Corner 8,Mangaluru,South Indian,2024,Yes,Yes,1221.0,33.1,9.7,4.3,827.0,2019.0,FSSAI-REG-610133,Verified menu v1
+ZMT-5219,Green House 9,Chennai,Coastal Seafood,2019,Yes,No,422.0,31.9,35.2,4.1,,2190.0,FSSAI-REG-977513,Verified menu v1
+ZMT-5220,Bistro Corner 10,Pune,Cafe & Desserts,2016,No,No,1268.0,55.7,25.3,4.1,1549.0,,FSSAI-REG-568758,Standard listing
+ZMT-5221,Spice Corner 11,Chennai,North Indian,2021,Yes,No,670.0,31.2,5.2,3.0,571.0,1204.0,FSSAI-REG-775308,Partner tier B
+ZMT-5222,Tandoori Kitchen 12,Hyderabad,Chinese & Asian,2018,Yes,No,435.0,24.7,5.9,4.1,997.0,1426.0,FSSAI-REG-311148,Partner tier B
+ZMT-5223,Classic Courtyard 13,Bengaluru,Fast Food & Burgers,2025,Yes,No,428.0,41.9,25.9,3.6,920.0,1933.0,FSSAI-REG-381673,Onboarding complete
+ZMT-5224,Namma Cafe 14,Chennai,Cafe & Desserts,2019,No,No,752.0,42.0,28.9,3.7,917.0,1980.0,FSSAI-REG-223692,Partner tier B
+ZMT-5225,Spice Hub 15,Bengaluru,Fast Food & Burgers,2023,Yes,Yes,1066.0,32.2,33.2,3.5,892.0,1953.0,FSSAI-REG-703424,Onboarding complete
+ZMT-5226,Spice Kitchen 16,Hyderabad,Chinese & Asian,2020,Yes,No,748.0,36.3,38.0,4.1,951.0,1988.0,FSSAI-REG-212472,Verified menu v1
+ZMT-5227,Green Cafe 17,Hyderabad,Fast Food & Burgers,2021,Yes,Yes,419.0,18.0,26.7,4.7,915.0,2194.0,FSSAI-REG-456205,Partner tier B
+ZMT-5228,Bistro Diner 18,Bengaluru,Italian & Pizza,2023,Yes,Yes,1048.0,31.6,17.0,4.4,1121.0,2038.0,FSSAI-REG-804956,Partner tier B
+ZMT-5229,Bistro junction 19,Mangaluru,South Indian,2024,Yes,No,756.0,39.1,23.7,4.0,844.0,1937.0,FSSAI-REG-707098,Standard listing
+ZMT-5230,Golden Platter 20,Mumbai,Cafe & Desserts,2019,No,No,1289.0,40.4,12.0,3.8,1185.0,1628.0,FSSAI-REG-660189,Partner tier B
+ZMT-5231,Bistro Pavilion 21,Bengaluru,North Indian,2025,No,Yes,361.0,37.6,7.8,2.9,734.0,1405.0,FSSAI-REG-636138,Partner tier B
+ZMT-5232,Golden Kitchen 22,Pune,Biryani & Mughlai,2016,Yes,Yes,788.0,28.8,34.2,4.1,873.0,1980.0,FSSAI-REG-406873,Partner tier B
+ZMT-5233,Green Darbar 23,Bengaluru,North Indian,2022,Yes,Yes,150.0,40.6,18.6,3.5,709.0,2009.0,FSSAI-REG-619186,Standard listing
+ZMT-5234,Aroma junction 24,Bengaluru,South Indian,2019,Yes,No,373.0,34.4,6.4,,729.0,1790.0,FSSAI-REG-521419,Partner tier B
+ZMT-5235,Spice Express 25,Mumbai,Fast Food & Burgers,2025,Yes,Yes,1431.0,30.4,11.6,4.3,1025.0,2179.0,FSSAI-REG-237372,Partner tier B
+ZMT-5236,Aroma Kitchen 26,Delhi NCR,Fast Food & Burgers,2024,Yes,No,1631.0,34.4,25.1,4.6,1084.0,2316.0,FSSAI-REG-800117,Partner tier B
+ZMT-5237,Aroma Platter 27,Mangaluru,Biryani & Mughlai,2021,Yes,No,513.0,42.8,32.8,3.9,1049.0,1936.0,FSSAI-REG-470353,Standard listing
+ZMT-5238,Urban Bites 28,Delhi NCR,Fast Food & Burgers,2016,Yes,Yes,1537.0,35.5,29.1,4.1,792.0,2095.0,FSSAI-REG-894961,Standard listing
+ZMT-5239,Royal Hub 29,Mumbai,South Indian,2021,Yes,No,602.0,39.6,34.4,3.6,1282.0,1956.0,FSSAI-REG-400628,Verified menu v1
+ZMT-5240,Flavours Bites 30,Bengaluru,Biryani & Mughlai,2025,Yes,No,1398.0,38.2,11.8,,891.0,1227.0,FSSAI-REG-982793,Verified menu v1
+ZMT-5241,Classic junction 1,Mangaluru,South Indian,2025,Yes,No,1737.0,37.2,12.4,4.0,1293.0,,FSSAI-REG-941289,Partner tier B
+ZMT-5242,Saffron Courtyard 2,Mysuru,North Indian,2016,Yes,No,1172.0,39.5,14.0,4.0,909.0,1990.0,FSSAI-REG-457270,Standard listing
+ZMT-5243,Golden Darbar 3,Bengaluru,North Indian,2022,Yes,No,864.0,37.9,5.5,3.9,805.0,1786.0,FSSAI-REG-945873,Verified menu v1
+ZMT-5244,Namma Platter 4,Hyderabad,Biryani & Mughlai,2016,Yes,Yes,208.0,31.9,19.5,3.5,735.0,1747.0,FSSAI-REG-930295,Partner tier B
+ZMT-5245,Royal Platter 5,Bengaluru,Chinese & Asian,2017,Yes,No,1580.0,31.0,7.1,,746.0,1734.0,FSSAI-REG-774028,Standard listing
+ZMT-5246,Tandoori Grill 6,Mumbai,North Indian,2024,Yes,No,1227.0,28.4,31.0,3.4,635.0,1686.0,FSSAI-REG-235127,Verified menu v1
+ZMT-5247,Street Table 7,Pune,South Indian,2016,Yes,No,543.0,33.0,34.4,4.6,979.0,2579.0,FSSAI-REG-407377,Onboarding complete
+ZMT-5248,Classic junction 8,Mysuru,South Indian,2016,Yes,No,309.0,34.4,38.6,3.3,687.0,1834.0,FSSAI-REG-370257,Onboarding complete
+ZMT-5249,Namma Platter 9,Hyderabad,Cafe & Desserts,2016,Yes,No,361.0,30.0,21.8,4.0,953.0,1796.0,FSSAI-REG-223449,Verified menu v1
+ZMT-5250,Aroma junction 10,Hyderabad,Chinese & Asian,2018,Yes,Yes,410.0,31.0,23.3,4.2,954.0,2208.0,FSSAI-REG-172919,Standard listing
+ZMT-5251,Royal Cafe 11,Mumbai,Chinese & Asian,2016,No,Yes,1006.0,32.9,24.7,3.5,833.0,1875.0,FSSAI-REG-386927,Verified menu v1
+ZMT-5252,Golden Platter 12,Mysuru,Italian & Pizza,2025,Yes,Yes,1172.0,38.8,30.8,3.5,683.0,1748.0,FSSAI-REG-232771,Verified menu v1
+ZMT-5253,Namma House 13,Hyderabad,Biryani & Mughlai,2015,No,Yes,321.0,33.3,18.8,3.6,661.0,1503.0,FSSAI-REG-215408,Verified menu v1
+ZMT-5254,Spice Pavilion 14,Mysuru,Chinese & Asian,2016,Yes,No,1237.0,49.5,5.1,3.4,,1739.0,FSSAI-REG-832142,Onboarding complete
+ZMT-5255,Urban Platter 15,Hyderabad,Fast Food & Burgers,2018,No,No,389.0,27.9,22.4,3.6,966.0,1985.0,FSSAI-REG-579815,Standard listing
+ZMT-5256,Street junction 16,Mumbai,Biryani & Mughlai,2021,Yes,No,1475.0,35.2,28.7,3.8,1213.0,1962.0,FSSAI-REG-574050,Onboarding complete
+ZMT-5257,Tandoori House 17,Mangaluru,Chinese & Asian,2018,Yes,No,1734.0,26.9,15.0,3.8,980.0,1610.0,FSSAI-REG-250248,Standard listing
+ZMT-5258,Green Pavilion 18,Bengaluru,South Indian,2017,No,Yes,1774.0,32.4,38.0,3.7,773.0,1847.0,FSSAI-REG-985030,Verified menu v1
+ZMT-5259,Golden Pavilion 19,Bengaluru,North Indian,2017,Yes,No,1557.0,31.2,11.4,4.6,1143.0,2296.0,FSSAI-REG-799915,Partner tier B
+ZMT-5260,Royal Bites 20,Bengaluru,Cafe & Desserts,2017,Yes,No,463.0,39.6,8.6,3.7,743.0,,FSSAI-REG-811549,Partner tier B
+ZMT-5261,Coastal Diner 21,Mumbai,Fast Food & Burgers,2020,Yes,No,1160.0,25.3,17.0,3.9,979.0,1904.0,FSSAI-REG-618903,Verified menu v1
+ZMT-5262,Spice Diner 22,Mumbai,Fast Food & Burgers,2022,No,No,1625.0,,9.0,2.9,863.0,1285.0,FSSAI-REG-397366,Partner tier B
+ZMT-5263,Aroma Express 23,Pune,Cafe & Desserts,2019,No,Yes,1700.0,,15.6,3.5,680.0,1503.0,FSSAI-REG-946150,Standard listing
+ZMT-5264,Tandoori Pavilion 24,Mysuru,Chinese & Asian,2024,Yes,No,610.0,40.7,5.5,3.9,862.0,1699.0,FSSAI-REG-139354,Standard listing
+ZMT-5265,Bistro Platter 25,Bengaluru,South Indian,2024,Yes,No,516.0,47.8,11.9,3.1,575.0,,FSSAI-REG-844524,Partner tier B
+ZMT-5266,Golden Courtyard 26,Mangaluru,Italian & Pizza,2022,Yes,No,649.0,41.2,15.4,3.9,718.0,1739.0,FSSAI-REG-302224,Onboarding complete
+ZMT-5267,Royal junction 27,Pune,Fast Food & Burgers,2024,No,No,1634.0,29.6,6.5,,971.0,1568.0,FSSAI-REG-213368,Standard listing
+ZMT-5268,Golden Darbar 28,Mumbai,North Indian,2022,Yes,Yes,885.0,26.5,15.4,3.9,1190.0,2083.0,FSSAI-REG-507736,Partner tier B
+ZMT-5269,Tandoori Pavilion 29,Bengaluru,South Indian,2021,Yes,No,770.0,29.8,17.6,4.1,915.0,2043.0,FSSAI-REG-433883,Onboarding complete
+ZMT-5270,Bistro Table 30,Pune,South Indian,2019,Yes,Yes,395.0,27.6,14.6,3.6,676.0,1539.0,FSSAI-REG-631870,Verified menu v1
+ZMT-5271,Coastal Express 1,Bengaluru,Chinese & Asian,2022,Yes,Yes,582.0,,9.5,4.1,1314.0,1983.0,FSSAI-REG-518696,Standard listing
+ZMT-5272,Street Hub 2,Hyderabad,South Indian,2017,Yes,No,443.0,31.0,27.9,4.1,953.0,2030.0,FSSAI-REG-503218,Standard listing
+ZMT-5273,Tandoori Platter 3,Mangaluru,Fast Food & Burgers,2016,No,No,1200.0,44.5,7.4,3.3,606.0,1579.0,FSSAI-REG-231427,Partner tier B
+ZMT-5274,Coastal Bites 4,Mangaluru,South Indian,2021,Yes,Yes,1119.0,25.9,34.8,4.0,892.0,,FSSAI-REG-349192,Standard listing
+ZMT-5275,Tandoori Cafe 5,Mangaluru,South Indian,2022,Yes,No,1195.0,18.0,8.4,3.6,730.0,1424.0,FSSAI-REG-318399,Standard listing
+ZMT-5276,Spice Corner 6,Chennai,South Indian,2016,Yes,No,1427.0,22.8,26.1,,795.0,2186.0,FSSAI-REG-548117,Partner tier B
+ZMT-5277,Royal Bites 7,Mumbai,Biryani & Mughlai,2025,Yes,No,1588.0,31.9,19.8,,745.0,1531.0,FSSAI-REG-260193,Standard listing
+ZMT-5278,Saffron Corner 8,Hyderabad,Cafe & Desserts,2025,No,No,1170.0,21.1,10.8,4.4,809.0,2056.0,FSSAI-REG-470002,Verified menu v1
+ZMT-5279,Crave Darbar 9,Pune,Fast Food & Burgers,2025,Yes,Yes,1656.0,35.7,30.7,3.3,1295.0,1798.0,FSSAI-REG-663917,Partner tier B
+ZMT-5280,Urban Darbar 10,Hyderabad,Chinese & Asian,2020,Yes,Yes,884.0,32.6,30.6,3.5,1130.0,,FSSAI-REG-899069,Standard listing
+ZMT-5281,Flavours Diner 11,Chennai,Fast Food & Burgers,2025,Yes,Yes,651.0,41.2,7.1,3.7,781.0,1714.0,FSSAI-REG-212663,Standard listing
+ZMT-5282,Urban Corner 12,Hyderabad,South Indian,2015,Yes,Yes,1729.0,,34.6,3.5,1327.0,1850.0,FSSAI-REG-323107,Partner tier B
+ZMT-5283,Namma Kitchen 13,Pune,South Indian,2022,Yes,No,576.0,27.5,39.7,4.1,923.0,2211.0,FSSAI-REG-492726,Onboarding complete
+ZMT-5284,Green Platter 14,Bengaluru,Fast Food & Burgers,2017,Yes,No,340.0,34.9,10.7,3.8,774.0,1833.0,FSSAI-REG-373632,Standard listing
+ZMT-5285,Saffron Darbar 15,Mumbai,South Indian,2024,Yes,No,1196.0,36.8,22.6,3.9,1152.0,1761.0,FSSAI-REG-298057,Verified menu v1
+ZMT-5286,Namma Platter 16,Mangaluru,North Indian,2018,Yes,No,,45.3,21.0,3.1,975.0,1448.0,FSSAI-REG-401348,Verified menu v1
+ZMT-5287,Classic Hub 17,Mangaluru,Coastal Seafood,2021,No,No,1205.0,31.3,8.5,3.7,719.0,1699.0,FSSAI-REG-272698,Onboarding complete
+ZMT-5288,Tandoori Diner 18,Bengaluru,Fast Food & Burgers,2023,Yes,No,707.0,,33.7,4.0,795.0,1901.0,FSSAI-REG-440569,Standard listing
+ZMT-5289,Bistro Corner 19,Chennai,North Indian,2025,Yes,No,1291.0,29.9,33.8,4.4,944.0,2335.0,FSSAI-REG-673313,Onboarding complete
+ZMT-5290,Coastal Corner 20,Mumbai,North Indian,2019,Yes,No,1168.0,28.8,14.9,4.0,770.0,1763.0,FSSAI-REG-255422,Partner tier B
+ZMT-5291,Flavours Bites 21,Mysuru,Biryani & Mughlai,2022,No,No,279.0,36.6,30.4,3.3,1235.0,1496.0,FSSAI-REG-551467,Partner tier B
+ZMT-5292,Flavours Bites 22,Bengaluru,Chinese & Asian,2020,Yes,Yes,732.0,25.7,26.7,4.2,868.0,2052.0,FSSAI-REG-771066,Verified menu v1
+ZMT-5293,Aroma Pavilion 23,Mumbai,Biryani & Mughlai,2025,Yes,No,,32.8,22.9,4.2,790.0,2017.0,FSSAI-REG-478450,Verified menu v1
+ZMT-5294,Green junction 24,Hyderabad,Chinese & Asian,2015,Yes,Yes,1230.0,47.5,18.8,3.4,818.0,1664.0,FSSAI-REG-679055,Partner tier B
+ZMT-5295,Crave Cafe 25,Bengaluru,South Indian,2024,Yes,No,824.0,27.2,28.6,4.1,1037.0,2342.0,FSSAI-REG-999632,Standard listing
+ZMT-5296,Street Diner 26,Hyderabad,North Indian,2016,Yes,Yes,401.0,38.8,35.4,2.8,,1444.0,FSSAI-REG-581024,Verified menu v1
+ZMT-5297,Spice Express 27,Pune,South Indian,2015,Yes,No,981.0,46.9,9.3,3.8,822.0,1852.0,FSSAI-REG-470389,Standard listing
+ZMT-5298,Saffron Darbar 28,Mangaluru,Fast Food & Burgers,2025,Yes,No,1341.0,34.3,36.0,3.7,706.0,2123.0,FSSAI-REG-879771,Onboarding complete
+ZMT-5299,Flavours Cafe 29,Chennai,South Indian,2016,Yes,Yes,1027.0,40.9,24.1,3.5,639.0,1678.0,FSSAI-REG-297940,Partner tier B
+ZMT-5300,Flavours Platter 30,Hyderabad,North Indian,2025,No,Yes,1091.0,29.1,12.1,3.8,824.0,1825.0,FSSAI-REG-225299,Verified menu v1
+ZMT-5301,Crave Courtyard 1,Mumbai,South Indian,2018,Yes,No,851.0,29.1,36.1,,912.0,2158.0,FSSAI-REG-962761,Onboarding complete
+ZMT-5302,Coastal Kitchen 2,Mangaluru,Biryani & Mughlai,2022,Yes,No,1453.0,28.2,13.4,4.0,946.0,1953.0,FSSAI-REG-764652,Verified menu v1
+ZMT-5303,Aroma Courtyard 3,Hyderabad,Coastal Seafood,2019,No,No,1514.0,18.0,36.1,3.4,678.0,1893.0,FSSAI-REG-128735,Partner tier B
+ZMT-5304,Royal Courtyard 4,Mangaluru,South Indian,2023,Yes,No,952.0,38.0,33.9,3.3,848.0,1849.0,FSSAI-REG-804022,Standard listing
+ZMT-5305,Classic Courtyard 5,Chennai,Chinese & Asian,2021,Yes,No,911.0,44.4,5.3,3.5,691.0,1503.0,FSSAI-REG-840867,Standard listing
+ZMT-5306,Green Diner 6,Bengaluru,Coastal Seafood,2020,No,Yes,976.0,28.6,27.9,3.4,940.0,1673.0,FSSAI-REG-944285,Verified menu v1
+ZMT-5307,Saffron Bites 7,Mangaluru,Italian & Pizza,2025,Yes,Yes,876.0,31.0,9.7,4.4,1356.0,1965.0,FSSAI-REG-585802,Standard listing
+ZMT-5308,Tandoori Hub 8,Mumbai,Biryani & Mughlai,2015,Yes,No,1533.0,41.9,38.7,4.0,1366.0,2112.0,FSSAI-REG-579995,Standard listing
+ZMT-5309,Street junction 9,Bengaluru,Biryani & Mughlai,2022,Yes,No,623.0,35.9,31.5,3.9,1005.0,2001.0,FSSAI-REG-690934,Onboarding complete
+ZMT-5310,Bistro Corner 10,Bengaluru,Chinese & Asian,2022,Yes,No,1658.0,43.2,6.3,3.8,1033.0,1728.0,FSSAI-REG-382788,Partner tier B
+ZMT-5311,Flavours Cafe 11,Delhi NCR,Biryani & Mughlai,2025,Yes,Yes,,29.3,14.4,4.3,1229.0,1910.0,FSSAI-REG-771691,Onboarding complete
+ZMT-5312,Aroma House 12,Bengaluru,North Indian,2016,Yes,No,822.0,25.3,32.7,3.9,850.0,2153.0,FSSAI-REG-897604,Verified menu v1
+ZMT-5313,Royal Bites 13,Bengaluru,Chinese & Asian,2015,Yes,Yes,1265.0,35.5,24.1,4.0,1288.0,1940.0,FSSAI-REG-166964,Partner tier B
+ZMT-5314,Bistro Platter 14,Delhi NCR,Italian & Pizza,2020,Yes,No,1085.0,43.8,10.2,3.8,1072.0,1379.0,FSSAI-REG-243710,Verified menu v1
+ZMT-5315,Flavours Corner 15,Bengaluru,Fast Food & Burgers,2020,Yes,Yes,1036.0,30.6,5.4,4.0,751.0,1924.0,FSSAI-REG-664905,Verified menu v1
+ZMT-5316,Green Darbar 16,Mumbai,South Indian,2018,Yes,Yes,1050.0,18.0,32.1,4.3,895.0,2284.0,FSSAI-REG-233976,Standard listing
+ZMT-5317,Bistro Corner 17,Pune,Italian & Pizza,2019,Yes,Yes,465.0,39.4,32.2,3.9,1301.0,2264.0,FSSAI-REG-786850,Verified menu v1
+ZMT-5318,Classic House 18,Hyderabad,Coastal Seafood,2018,No,No,,22.2,6.7,4.0,1689.0,1816.0,FSSAI-REG-220180,Standard listing
+ZMT-5319,Crave Table 19,Pune,Italian & Pizza,2017,Yes,No,1374.0,36.5,8.4,3.4,1018.0,1540.0,FSSAI-REG-529253,Onboarding complete
+ZMT-5320,Urban Cafe 20,Chennai,Biryani & Mughlai,2016,Yes,Yes,444.0,33.7,30.9,4.1,1646.0,1974.0,FSSAI-REG-440253,Verified menu v1
+ZMT-5321,Saffron Bites 21,Pune,Biryani & Mughlai,2019,No,Yes,1243.0,30.9,29.1,3.6,1332.0,2177.0,FSSAI-REG-668209,Standard listing
+ZMT-5322,Street House 22,Chennai,South Indian,2024,Yes,Yes,1569.0,33.2,12.1,4.4,871.0,1828.0,FSSAI-REG-240427,Onboarding complete
+ZMT-5323,Aroma Cafe 23,Bengaluru,Chinese & Asian,2019,Yes,Yes,1711.0,41.7,24.7,3.2,627.0,1346.0,FSSAI-REG-157164,Verified menu v1
+ZMT-5324,Classic Darbar 24,Mysuru,South Indian,2016,Yes,No,1571.0,27.5,32.8,3.3,798.0,1585.0,FSSAI-REG-893498,Standard listing
+ZMT-5325,Street Darbar 25,Mumbai,North Indian,2022,Yes,No,612.0,29.6,38.1,4.4,826.0,2253.0,FSSAI-REG-813829,Partner tier B
+ZMT-5326,Golden Grill 26,Bengaluru,Chinese & Asian,2016,No,No,1376.0,24.3,26.3,3.5,715.0,1769.0,FSSAI-REG-370527,Standard listing
+ZMT-5327,Royal Table 27,Bengaluru,Biryani & Mughlai,2015,Yes,Yes,192.0,41.9,10.2,3.6,771.0,1798.0,FSSAI-REG-497322,Standard listing
+ZMT-5328,Namma Table 28,Bengaluru,Coastal Seafood,2022,Yes,Yes,855.0,44.6,31.5,3.9,775.0,1799.0,FSSAI-REG-681257,Onboarding complete
+ZMT-5329,Tandoori Darbar 29,Hyderabad,Biryani & Mughlai,2021,No,No,962.0,31.8,10.6,,,1568.0,FSSAI-REG-735512,Partner tier B
+ZMT-5330,Flavours Cafe 30,Mumbai,Cafe & Desserts,2025,No,Yes,1360.0,39.3,5.1,3.0,652.0,,FSSAI-REG-195519,Partner tier B
+ZMT-5331,Bistro junction 1,Hyderabad,Cafe & Desserts,2022,Yes,Yes,1520.0,39.1,23.0,3.3,925.0,1683.0,FSSAI-REG-746315,Onboarding complete
+ZMT-5332,Street Platter 2,Bengaluru,Cafe & Desserts,2017,No,Yes,1246.0,20.8,13.2,3.6,1765.0,1806.0,FSSAI-REG-163861,Partner tier B
+ZMT-5333,Aroma Express 3,Mangaluru,North Indian,2020,Yes,No,776.0,35.5,35.8,3.9,1203.0,2115.0,FSSAI-REG-757127,Partner tier B
+ZMT-5334,Golden Platter 4,Bengaluru,Biryani & Mughlai,2015,Yes,No,1069.0,22.4,39.6,4.7,1006.0,2528.0,FSSAI-REG-260775,Partner tier B
+ZMT-5335,Green Table 5,Mumbai,Cafe & Desserts,2020,No,No,561.0,29.9,29.4,3.3,624.0,1921.0,FSSAI-REG-845559,Partner tier B
+ZMT-5336,Saffron Pavilion 6,Bengaluru,North Indian,2015,Yes,No,203.0,47.0,9.0,3.5,742.0,1670.0,FSSAI-REG-801020,Standard listing
+ZMT-5337,Crave Courtyard 7,Mangaluru,North Indian,2017,Yes,No,317.0,40.1,21.0,3.7,687.0,1672.0,FSSAI-REG-557393,Partner tier B
+ZMT-5338,Aroma Hub 8,Mangaluru,Cafe & Desserts,2020,Yes,No,1207.0,28.8,36.5,4.4,803.0,2289.0,FSSAI-REG-357160,Onboarding complete
+ZMT-5339,Flavours Corner 9,Mumbai,Fast Food & Burgers,2019,No,Yes,1152.0,30.9,27.9,3.8,804.0,1762.0,FSSAI-REG-451895,Partner tier B
+ZMT-5340,Crave Cafe 10,Chennai,North Indian,2022,No,No,1289.0,47.8,22.1,3.7,937.0,,FSSAI-REG-148317,Verified menu v1
+ZMT-5341,Urban Grill 11,Chennai,Fast Food & Burgers,2024,Yes,No,733.0,57.1,24.6,3.6,775.0,,FSSAI-REG-870624,Standard listing
+ZMT-5342,Spice Corner 12,Bengaluru,Fast Food & Burgers,2018,Yes,Yes,525.0,25.7,18.2,3.9,1321.0,1777.0,FSSAI-REG-179427,Onboarding complete
+ZMT-5343,Green Table 13,Mangaluru,North Indian,2021,Yes,Yes,1301.0,29.9,26.1,3.9,1458.0,1888.0,FSSAI-REG-334754,Partner tier B
+ZMT-5344,Aroma Diner 14,Bengaluru,Chinese & Asian,2024,No,No,1175.0,32.0,13.0,3.3,629.0,1659.0,FSSAI-REG-785880,Partner tier B
+ZMT-5345,Crave Courtyard 15,Mangaluru,Chinese & Asian,2020,Yes,No,1668.0,32.0,8.3,4.3,851.0,2188.0,FSSAI-REG-475363,Onboarding complete
+ZMT-5346,Street Bites 16,Bengaluru,Chinese & Asian,2024,Yes,Yes,1575.0,37.9,19.0,3.8,691.0,,FSSAI-REG-886242,Standard listing
+ZMT-5347,Royal Grill 17,Bengaluru,Biryani & Mughlai,2020,Yes,No,1446.0,42.9,38.0,3.5,650.0,1756.0,FSSAI-REG-495731,Partner tier B
+ZMT-5348,Urban Express 18,Mangaluru,Fast Food & Burgers,2015,Yes,Yes,1018.0,42.2,12.6,3.9,767.0,1669.0,FSSAI-REG-390208,Standard listing
+ZMT-5349,Tandoori Kitchen 19,Bengaluru,South Indian,2019,Yes,Yes,969.0,37.3,25.9,3.3,784.0,1724.0,FSSAI-REG-650486,Partner tier B
+ZMT-5350,Spice Cafe 20,Mangaluru,Biryani & Mughlai,2021,Yes,Yes,435.0,38.9,19.0,4.1,1019.0,1973.0,FSSAI-REG-270923,Verified menu v1
+ZMT-5351,Aroma junction 21,Mangaluru,Italian & Pizza,2021,Yes,Yes,693.0,28.2,11.9,,842.0,1737.0,FSSAI-REG-735104,Partner tier B
+ZMT-5352,Royal Platter 22,Pune,North Indian,2017,No,No,365.0,37.8,12.8,3.7,921.0,1669.0,FSSAI-REG-518551,Verified menu v1
+ZMT-5353,Royal Corner 23,Mumbai,Italian & Pizza,2022,Yes,No,398.0,42.4,30.2,3.7,990.0,1788.0,FSSAI-REG-137111,Partner tier B
+ZMT-5354,Street Diner 24,Bengaluru,South Indian,2019,No,No,327.0,38.1,12.4,3.8,763.0,1534.0,FSSAI-REG-711671,Verified menu v1
+ZMT-5355,Golden Hub 25,Hyderabad,Coastal Seafood,2023,No,No,717.0,23.5,34.7,3.6,,,FSSAI-REG-734622,Standard listing
+ZMT-5356,Golden House 26,Mumbai,North Indian,2016,Yes,Yes,1442.0,26.6,21.9,4.4,897.0,2086.0,FSSAI-REG-364223,Verified menu v1
+ZMT-5357,Bistro Platter 27,Mumbai,North Indian,2025,Yes,No,389.0,23.5,33.5,4.1,744.0,2312.0,FSSAI-REG-722224,Verified menu v1
+ZMT-5358,Street Hub 28,Hyderabad,Coastal Seafood,2021,Yes,No,1542.0,34.5,17.0,3.5,908.0,1746.0,FSSAI-REG-851194,Verified menu v1
+ZMT-5359,Bistro Corner 29,Hyderabad,North Indian,2019,Yes,No,891.0,33.3,33.3,4.4,1062.0,2141.0,FSSAI-REG-794496,Onboarding complete
+ZMT-5360,Coastal Kitchen 30,Bengaluru,Cafe & Desserts,2019,Yes,No,962.0,42.6,15.5,4.1,824.0,,FSSAI-REG-255843,Standard listing
+ZMT-5361,Tandoori Hub 1,Bengaluru,South Indian,2019,Yes,No,,24.7,13.9,3.9,890.0,1607.0,FSSAI-REG-337350,Partner tier B
+ZMT-5362,Namma Pavilion 2,Hyderabad,Biryani & Mughlai,2020,No,No,838.0,28.4,24.7,,646.0,1906.0,FSSAI-REG-203021,Onboarding complete
+ZMT-5363,Bistro Corner 3,Hyderabad,Coastal Seafood,2023,Yes,Yes,967.0,38.3,26.9,3.5,915.0,1734.0,FSSAI-REG-502810,Partner tier B
+ZMT-5364,Crave Kitchen 4,Mangaluru,Coastal Seafood,2024,Yes,No,313.0,18.0,29.1,,937.0,2073.0,FSSAI-REG-869999,Onboarding complete
+ZMT-5365,Classic Corner 5,Mangaluru,Coastal Seafood,2022,No,No,1344.0,28.7,31.5,3.2,935.0,1619.0,FSSAI-REG-990004,Partner tier B
+ZMT-5366,Namma Express 6,Pune,Coastal Seafood,2022,Yes,No,1385.0,50.5,20.4,3.5,823.0,1824.0,FSSAI-REG-484982,Standard listing
+ZMT-5367,Crave junction 7,Hyderabad,Cafe & Desserts,2017,Yes,No,715.0,30.6,38.6,4.0,802.0,1953.0,FSSAI-REG-581454,Verified menu v1
+ZMT-5368,Saffron Hub 8,Bengaluru,Fast Food & Burgers,2016,Yes,No,1019.0,19.2,18.8,4.5,1215.0,2182.0,FSSAI-REG-303036,Partner tier B
+ZMT-5369,Classic Hub 9,Delhi NCR,South Indian,2015,Yes,No,912.0,29.8,5.2,4.5,1206.0,1831.0,FSSAI-REG-109791,Partner tier B
+ZMT-5370,Spice Platter 10,Hyderabad,Italian & Pizza,2019,Yes,No,1341.0,28.8,27.8,4.1,885.0,1987.0,FSSAI-REG-895806,Verified menu v1
+ZMT-5371,Aroma junction 11,Mangaluru,Cafe & Desserts,2019,Yes,No,730.0,42.5,16.8,3.7,695.0,1782.0,FSSAI-REG-641729,Partner tier B
+ZMT-5372,Royal Corner 12,Pune,Biryani & Mughlai,2022,Yes,Yes,,41.0,30.3,3.2,621.0,1814.0,FSSAI-REG-689260,Verified menu v1
+ZMT-5373,Spice Table 13,Hyderabad,Chinese & Asian,2016,Yes,No,1496.0,46.7,25.5,4.1,956.0,1813.0,FSSAI-REG-464421,Verified menu v1
+ZMT-5374,Aroma Grill 14,Mumbai,Biryani & Mughlai,2019,Yes,Yes,1608.0,29.8,30.8,4.2,808.0,2162.0,FSSAI-REG-957745,Standard listing
+ZMT-5375,Namma Corner 15,Bengaluru,Cafe & Desserts,2024,No,No,1715.0,37.8,33.3,4.1,783.0,2114.0,FSSAI-REG-750063,Partner tier B
+ZMT-5376,Royal Platter 16,Delhi NCR,Chinese & Asian,2016,Yes,Yes,1630.0,38.1,31.2,3.5,1153.0,1800.0,FSSAI-REG-862364,Verified menu v1
+ZMT-5377,Classic House 17,Mumbai,Coastal Seafood,2018,Yes,Yes,1425.0,35.2,9.9,4.1,815.0,1829.0,FSSAI-REG-462562,Standard listing
+ZMT-5378,Royal Hub 18,Mumbai,Biryani & Mughlai,2016,Yes,No,1775.0,27.5,14.5,4.3,1077.0,1733.0,FSSAI-REG-866492,Onboarding complete
+ZMT-5379,Royal Express 19,Chennai,Cafe & Desserts,2022,Yes,Yes,1424.0,49.0,38.4,3.8,817.0,2145.0,FSSAI-REG-598420,Verified menu v1
+ZMT-5380,Aroma Bites 20,Bengaluru,North Indian,2023,Yes,Yes,1357.0,34.2,35.5,3.8,774.0,1948.0,FSSAI-REG-769520,Partner tier B
+ZMT-5381,Urban Platter 21,Mysuru,South Indian,2019,Yes,Yes,1360.0,32.0,39.7,,792.0,2121.0,FSSAI-REG-574018,Partner tier B
+ZMT-5382,Aroma Hub 22,Hyderabad,South Indian,2023,No,No,,34.2,24.5,3.5,776.0,1652.0,FSSAI-REG-938612,Standard listing
+ZMT-5383,Street Grill 23,Mumbai,Chinese & Asian,2017,Yes,Yes,840.0,47.4,36.3,3.7,896.0,2068.0,FSSAI-REG-695175,Verified menu v1
+ZMT-5384,Aroma Bites 24,Chennai,South Indian,2016,Yes,No,1159.0,41.3,19.1,3.7,676.0,1891.0,FSSAI-REG-222423,Standard listing
+ZMT-5385,Bistro Corner 25,Mumbai,Biryani & Mughlai,2020,No,No,258.0,38.8,32.9,3.6,657.0,1927.0,FSSAI-REG-251575,Partner tier B
+ZMT-5386,Saffron Darbar 26,Mangaluru,South Indian,2023,Yes,Yes,1125.0,37.1,10.0,3.9,857.0,1582.0,FSSAI-REG-947911,Partner tier B
+ZMT-5387,Royal Cafe 27,Delhi NCR,Biryani & Mughlai,2022,No,No,658.0,42.3,22.2,3.4,723.0,1729.0,FSSAI-REG-673888,Partner tier B
+ZMT-5388,Street Pavilion 28,Mangaluru,North Indian,2024,Yes,No,182.0,,27.7,3.5,977.0,1995.0,FSSAI-REG-668144,Partner tier B
+ZMT-5389,Street junction 29,Mangaluru,Chinese & Asian,2019,Yes,No,411.0,38.9,9.2,3.8,829.0,1658.0,FSSAI-REG-822720,Standard listing
+ZMT-5390,Spice Platter 30,Chennai,South Indian,2020,Yes,No,1691.0,29.0,27.4,3.6,1119.0,1926.0,FSSAI-REG-378735,Onboarding complete
+ZMT-5391,Classic Cafe 1,Mumbai,North Indian,2024,Yes,No,1224.0,28.9,20.3,3.9,1027.0,2022.0,FSSAI-REG-854830,Verified menu v1
+ZMT-5392,Bistro Darbar 2,Bengaluru,Fast Food & Burgers,2015,Yes,No,1572.0,42.2,16.0,3.8,,1631.0,FSSAI-REG-634255,Verified menu v1
+ZMT-5393,Aroma Darbar 3,Mysuru,North Indian,2016,Yes,No,186.0,23.9,12.4,4.2,1221.0,1891.0,FSSAI-REG-802532,Verified menu v1
+ZMT-5394,Street Platter 4,Mangaluru,Fast Food & Burgers,2022,Yes,No,338.0,42.1,11.8,4.5,1004.0,1884.0,FSSAI-REG-857946,Partner tier B
+ZMT-5395,Street Kitchen 5,Mumbai,Coastal Seafood,2021,Yes,Yes,212.0,32.6,28.9,3.3,776.0,1911.0,FSSAI-REG-436883,Onboarding complete
+ZMT-5396,Royal Pavilion 6,Hyderabad,Cafe & Desserts,2025,Yes,No,1456.0,30.3,20.3,3.8,794.0,1919.0,FSSAI-REG-160641,Verified menu v1
+ZMT-5397,Flavours Diner 7,Mangaluru,Biryani & Mughlai,2022,Yes,Yes,1263.0,40.3,14.0,4.0,756.0,1828.0,FSSAI-REG-902210,Partner tier B
+ZMT-5398,Golden Platter 8,Hyderabad,Biryani & Mughlai,2015,Yes,No,346.0,32.3,36.2,3.7,919.0,1833.0,FSSAI-REG-816912,Onboarding complete
+ZMT-5399,Spice Diner 9,Hyderabad,Chinese & Asian,2025,No,Yes,1546.0,33.0,35.7,3.1,695.0,1510.0,FSSAI-REG-281958,Standard listing
+ZMT-5400,Golden Diner 10,Chennai,North Indian,2018,Yes,No,1371.0,38.4,29.3,4.2,817.0,1826.0,FSSAI-REG-223332,Standard listing
+ZMT-5401,Street junction 11,Bengaluru,Biryani & Mughlai,2024,Yes,Yes,1581.0,38.3,5.4,4.6,960.0,2005.0,FSSAI-REG-987439,Verified menu v1
+ZMT-5402,Aroma Courtyard 12,Pune,South Indian,2023,Yes,Yes,1102.0,29.2,33.7,4.1,1045.0,1939.0,FSSAI-REG-305828,Verified menu v1
+ZMT-5403,Green Table 13,Bengaluru,South Indian,2023,No,No,1434.0,37.3,28.7,3.7,886.0,2208.0,FSSAI-REG-172268,Onboarding complete
+ZMT-5404,Aroma Darbar 14,Bengaluru,Cafe & Desserts,2023,Yes,No,210.0,41.0,19.4,,602.0,1602.0,FSSAI-REG-692307,Verified menu v1
+ZMT-5405,Aroma House 15,Mangaluru,Biryani & Mughlai,2019,Yes,Yes,1755.0,27.4,38.7,4.1,754.0,,FSSAI-REG-853813,Partner tier B
+ZMT-5406,Royal Cafe 16,Mangaluru,Coastal Seafood,2023,Yes,Yes,1128.0,31.9,32.3,4.1,804.0,2210.0,FSSAI-REG-134022,Partner tier B
+ZMT-5407,Saffron Hub 17,Delhi NCR,Italian & Pizza,2017,No,No,568.0,36.0,13.2,3.4,1028.0,1581.0,FSSAI-REG-849159,Onboarding complete
+ZMT-5408,Saffron Diner 18,Mangaluru,Chinese & Asian,2017,No,No,677.0,40.1,13.0,3.6,912.0,1577.0,FSSAI-REG-364547,Verified menu v1
+ZMT-5409,Golden junction 19,Bengaluru,Cafe & Desserts,2023,Yes,Yes,821.0,51.3,6.0,4.3,896.0,1977.0,FSSAI-REG-111347,Onboarding complete
+ZMT-5410,Aroma Kitchen 20,Mangaluru,Cafe & Desserts,2017,No,No,623.0,36.5,24.6,3.5,779.0,,FSSAI-REG-437914,Onboarding complete
+ZMT-5411,Golden Courtyard 21,Hyderabad,South Indian,2015,Yes,Yes,676.0,41.1,19.9,4.3,942.0,2040.0,FSSAI-REG-541245,Partner tier B
+ZMT-5412,Tandoori Platter 22,Bengaluru,North Indian,2024,No,No,1612.0,45.8,6.3,3.5,1208.0,1606.0,FSSAI-REG-787863,Partner tier B
+ZMT-5413,Green Express 23,Mangaluru,South Indian,2021,No,No,788.0,25.5,14.5,,807.0,1811.0,FSSAI-REG-467516,Onboarding complete
+ZMT-5414,Crave Cafe 24,Hyderabad,Italian & Pizza,2024,Yes,Yes,1176.0,19.7,24.2,,1377.0,2330.0,FSSAI-REG-889029,Onboarding complete
+ZMT-5415,Royal Kitchen 25,Mangaluru,Fast Food & Burgers,2017,Yes,No,739.0,34.0,21.4,3.4,751.0,1852.0,FSSAI-REG-200942,Onboarding complete
+ZMT-5416,Saffron Cafe 26,Mangaluru,South Indian,2024,Yes,No,,25.6,21.2,3.7,779.0,1758.0,FSSAI-REG-563100,Verified menu v1
+ZMT-5417,Coastal Courtyard 27,Mangaluru,Coastal Seafood,2025,No,Yes,,31.5,11.9,3.4,794.0,1382.0,FSSAI-REG-788479,Onboarding complete
+ZMT-5418,Namma House 28,Pune,North Indian,2023,Yes,No,1442.0,35.3,38.2,3.4,1434.0,1945.0,FSSAI-REG-168543,Verified menu v1
+ZMT-5419,Bistro House 29,Hyderabad,Cafe & Desserts,2021,Yes,No,508.0,37.2,35.4,3.3,908.0,1758.0,FSSAI-REG-446123,Onboarding complete
+ZMT-5420,Royal House 30,Pune,South Indian,2023,Yes,Yes,1115.0,31.5,8.3,4.3,826.0,1863.0,FSSAI-REG-916814,Partner tier B
+ZMT-5421,Flavours junction 1,Mysuru,Biryani & Mughlai,2020,Yes,Yes,902.0,38.2,5.1,4.1,918.0,1645.0,FSSAI-REG-569872,Verified menu v1
+ZMT-5422,Coastal Express 2,Bengaluru,Italian & Pizza,2019,Yes,No,,37.7,27.1,3.5,642.0,1907.0,FSSAI-REG-838994,Partner tier B
+ZMT-5423,Tandoori Express 3,Bengaluru,Italian & Pizza,2020,Yes,Yes,499.0,25.8,29.0,3.8,743.0,1982.0,FSSAI-REG-836991,Verified menu v1
+ZMT-5424,Saffron Pavilion 4,Mumbai,South Indian,2022,Yes,No,1745.0,18.0,35.6,3.6,933.0,2021.0,FSSAI-REG-345977,Standard listing
+ZMT-5425,Royal Pavilion 5,Mumbai,Chinese & Asian,2020,No,Yes,555.0,29.3,16.2,4.0,813.0,1726.0,FSSAI-REG-752567,Partner tier B
+ZMT-5426,Namma Pavilion 6,Bengaluru,Chinese & Asian,2019,No,Yes,964.0,33.5,9.3,3.0,1192.0,1144.0,FSSAI-REG-456930,Partner tier B
+ZMT-5427,Flavours Corner 7,Bengaluru,Chinese & Asian,2017,Yes,Yes,889.0,37.3,8.7,4.0,1101.0,1917.0,FSSAI-REG-435418,Partner tier B
+ZMT-5428,Urban Cafe 8,Pune,North Indian,2025,Yes,Yes,821.0,18.0,32.5,3.7,875.0,2048.0,FSSAI-REG-420351,Verified menu v1
+ZMT-5429,Bistro Grill 9,Chennai,North Indian,2020,Yes,No,844.0,27.5,6.0,3.6,836.0,1553.0,FSSAI-REG-291377,Verified menu v1
+ZMT-5430,Bistro Pavilion 10,Mangaluru,Chinese & Asian,2019,Yes,No,1348.0,26.1,26.3,4.0,915.0,2034.0,FSSAI-REG-544438,Onboarding complete
+ZMT-5431,Classic Kitchen 11,Bengaluru,Cafe & Desserts,2023,Yes,Yes,415.0,36.3,5.9,3.7,819.0,1397.0,FSSAI-REG-612870,Partner tier B
+ZMT-5432,Golden Bites 12,Mumbai,Fast Food & Burgers,2016,No,No,330.0,35.2,19.4,3.0,558.0,1672.0,FSSAI-REG-346610,Standard listing
+ZMT-5433,Flavours Express 13,Delhi NCR,South Indian,2018,Yes,No,667.0,32.1,14.4,3.9,712.0,1873.0,FSSAI-REG-937061,Standard listing
+ZMT-5434,Bistro Kitchen 14,Pune,Chinese & Asian,2020,No,No,1471.0,29.2,15.4,3.6,832.0,,FSSAI-REG-733275,Standard listing
+ZMT-5435,Coastal Pavilion 15,Mangaluru,South Indian,2018,Yes,No,549.0,35.6,26.1,3.7,997.0,2174.0,FSSAI-REG-941787,Verified menu v1
+ZMT-5436,Coastal Pavilion 16,Chennai,Coastal Seafood,2018,Yes,Yes,409.0,31.9,39.9,4.3,795.0,2235.0,FSSAI-REG-350707,Standard listing
+ZMT-5437,Namma Cafe 17,Mangaluru,North Indian,2016,Yes,Yes,1753.0,22.9,33.9,3.2,929.0,1962.0,FSSAI-REG-634966,Partner tier B
+ZMT-5438,Bistro House 18,Mumbai,South Indian,2023,Yes,Yes,915.0,,26.0,3.7,731.0,2056.0,FSSAI-REG-949193,Onboarding complete
+ZMT-5439,Royal Bites 19,Chennai,Biryani & Mughlai,2015,Yes,Yes,553.0,20.4,27.8,3.8,,1953.0,FSSAI-REG-141222,Partner tier B
+ZMT-5440,Classic Cafe 20,Mumbai,Biryani & Mughlai,2018,Yes,No,613.0,33.2,36.3,4.7,946.0,2259.0,FSSAI-REG-107173,Standard listing
+ZMT-5441,Saffron Diner 21,Mangaluru,North Indian,2025,Yes,No,1018.0,52.1,20.4,3.2,967.0,1624.0,FSSAI-REG-272116,Partner tier B
+ZMT-5442,Classic Pavilion 22,Mysuru,Chinese & Asian,2024,Yes,No,285.0,31.4,29.3,4.4,1042.0,2209.0,FSSAI-REG-173376,Onboarding complete
+ZMT-5443,Golden Hub 23,Bengaluru,Biryani & Mughlai,2015,Yes,No,1214.0,27.5,12.5,3.7,703.0,1622.0,FSSAI-REG-657445,Onboarding complete
+ZMT-5444,Bistro Table 24,Mangaluru,Fast Food & Burgers,2024,Yes,No,1223.0,32.7,8.2,4.5,1019.0,1977.0,FSSAI-REG-957053,Standard listing
+ZMT-5445,Tandoori Table 25,Hyderabad,South Indian,2023,Yes,No,1631.0,23.8,23.3,,748.0,1932.0,FSSAI-REG-926168,Standard listing
+ZMT-5446,Tandoori Diner 26,Hyderabad,Chinese & Asian,2016,No,Yes,470.0,40.6,25.6,3.9,947.0,2188.0,FSSAI-REG-719691,Standard listing
+ZMT-5447,Golden Grill 27,Hyderabad,Biryani & Mughlai,2022,No,Yes,1433.0,27.6,9.5,3.1,602.0,,FSSAI-REG-109860,Partner tier B
+ZMT-5448,Royal Bites 28,Mysuru,Coastal Seafood,2015,Yes,No,1656.0,30.1,15.7,4.4,1065.0,1932.0,FSSAI-REG-242452,Verified menu v1
+ZMT-5449,Spice Bites 29,Bengaluru,Fast Food & Burgers,2019,Yes,Yes,1442.0,32.3,19.1,4.0,1014.0,1858.0,FSSAI-REG-990258,Onboarding complete
+ZMT-5450,Bistro Darbar 30,Hyderabad,Biryani & Mughlai,2016,Yes,No,360.0,,13.5,4.0,771.0,,FSSAI-REG-978950,Onboarding complete
+ZMT-5451,Urban Table 1,Mumbai,North Indian,2016,Yes,Yes,534.0,30.8,31.3,3.8,863.0,1740.0,FSSAI-REG-924402,Standard listing
+ZMT-5452,Street Corner 2,Chennai,Biryani & Mughlai,2016,Yes,No,1070.0,39.1,17.1,3.9,785.0,1889.0,FSSAI-REG-285507,Partner tier B
+ZMT-5453,Aroma Hub 3,Hyderabad,Chinese & Asian,2023,Yes,Yes,1182.0,35.6,15.8,3.4,652.0,1645.0,FSSAI-REG-102466,Onboarding complete
+ZMT-5454,Crave Bites 4,Chennai,Biryani & Mughlai,2024,Yes,Yes,1216.0,41.9,25.1,3.5,1143.0,1578.0,FSSAI-REG-439513,Partner tier B
+ZMT-5455,Namma Kitchen 5,Mangaluru,North Indian,2020,Yes,Yes,685.0,35.6,8.9,4.3,1137.0,1734.0,FSSAI-REG-958789,Onboarding complete
+ZMT-5456,Street Diner 6,Bengaluru,Chinese & Asian,2018,No,Yes,1491.0,31.6,14.2,4.2,954.0,2066.0,FSSAI-REG-678952,Verified menu v1
+ZMT-5457,Classic Cafe 7,Hyderabad,Coastal Seafood,2022,No,Yes,311.0,34.1,35.3,3.5,1347.0,2016.0,FSSAI-REG-587883,Verified menu v1
+ZMT-5458,Coastal Diner 8,Hyderabad,North Indian,2024,Yes,No,,39.9,12.9,4.0,949.0,1701.0,FSSAI-REG-933705,Standard listing
+ZMT-5459,Crave Courtyard 9,Pune,North Indian,2023,Yes,No,1147.0,23.7,33.9,4.3,791.0,2259.0,FSSAI-REG-961115,Onboarding complete
+ZMT-5460,Spice Darbar 10,Bengaluru,Biryani & Mughlai,2022,Yes,No,1134.0,44.5,24.7,3.9,1108.0,2062.0,FSSAI-REG-182090,Onboarding complete
+ZMT-5461,Aroma Diner 11,Hyderabad,Chinese & Asian,2019,Yes,No,948.0,24.4,26.6,3.6,777.0,1565.0,FSSAI-REG-479257,Verified menu v1
+ZMT-5462,Bistro Cafe 12,Chennai,Italian & Pizza,2017,Yes,No,,36.1,17.9,4.3,1270.0,,FSSAI-REG-290534,Standard listing
+ZMT-5463,Tandoori Kitchen 13,Delhi NCR,Biryani & Mughlai,2016,Yes,No,1672.0,29.6,39.6,3.5,983.0,1972.0,FSSAI-REG-851152,Standard listing
+ZMT-5464,Namma Bites 14,Bengaluru,South Indian,2021,No,No,389.0,41.2,12.6,3.0,559.0,1476.0,FSSAI-REG-894282,Verified menu v1
+ZMT-5465,Golden Hub 15,Mangaluru,Biryani & Mughlai,2018,Yes,Yes,746.0,32.7,19.7,4.4,914.0,1943.0,FSSAI-REG-742937,Onboarding complete
+ZMT-5466,Bistro Express 16,Mumbai,Biryani & Mughlai,2022,No,No,1008.0,40.0,26.4,3.0,668.0,1232.0,FSSAI-REG-432925,Standard listing
+ZMT-5467,Green junction 17,Delhi NCR,Cafe & Desserts,2019,Yes,No,1103.0,29.3,37.1,,812.0,1756.0,FSSAI-REG-888753,Onboarding complete
+ZMT-5468,Street Bites 18,Chennai,North Indian,2022,Yes,No,779.0,25.3,32.0,4.4,855.0,2255.0,FSSAI-REG-986785,Verified menu v1
+ZMT-5469,Street House 19,Bengaluru,South Indian,2023,Yes,No,271.0,,30.1,4.4,1020.0,2093.0,FSSAI-REG-607469,Onboarding complete
+ZMT-5470,Crave Courtyard 20,Hyderabad,North Indian,2015,Yes,No,425.0,31.5,29.6,3.6,718.0,2009.0,FSSAI-REG-384915,Partner tier B
+ZMT-5471,Bistro Platter 21,Mumbai,Cafe & Desserts,2025,Yes,No,1321.0,31.9,31.1,4.1,779.0,2229.0,FSSAI-REG-186146,Partner tier B
+ZMT-5472,Urban Cafe 22,Mumbai,Cafe & Desserts,2015,Yes,Yes,1678.0,18.0,32.3,4.2,876.0,2233.0,FSSAI-REG-491920,Standard listing
+ZMT-5473,Tandoori Kitchen 23,Bengaluru,Biryani & Mughlai,2017,Yes,No,,33.0,13.9,4.1,754.0,1757.0,FSSAI-REG-401753,Verified menu v1
+ZMT-5474,Bistro Diner 24,Hyderabad,Cafe & Desserts,2017,Yes,Yes,1517.0,,5.4,3.9,1055.0,1550.0,FSSAI-REG-454719,Onboarding complete
+ZMT-5475,Green House 25,Delhi NCR,Coastal Seafood,2019,Yes,Yes,234.0,27.1,34.0,4.2,786.0,2466.0,FSSAI-REG-820216,Standard listing
+ZMT-5476,Namma Darbar 26,Bengaluru,South Indian,2015,No,Yes,1622.0,43.0,7.6,,1119.0,1132.0,FSSAI-REG-132365,Partner tier B
+ZMT-5477,Coastal Bites 27,Pune,Cafe & Desserts,2020,Yes,No,283.0,24.9,17.8,3.8,892.0,1688.0,FSSAI-REG-608323,Verified menu v1
+ZMT-5478,Namma Express 28,Hyderabad,Chinese & Asian,2015,Yes,No,354.0,28.0,11.1,3.7,1018.0,1593.0,FSSAI-REG-227138,Standard listing
+ZMT-5479,Green junction 29,Mumbai,North Indian,2021,Yes,Yes,246.0,24.2,8.9,4.4,1095.0,1862.0,FSSAI-REG-854956,Standard listing
+ZMT-5480,Namma Darbar 30,Delhi NCR,North Indian,2023,Yes,No,1586.0,38.0,15.8,4.1,955.0,1555.0,FSSAI-REG-290501,Partner tier B
+ZMT-5481,Spice Bites 1,Bengaluru,Cafe & Desserts,2024,Yes,No,1619.0,46.4,16.5,3.6,770.0,1654.0,FSSAI-REG-515450,Standard listing
+ZMT-5482,Namma Courtyard 2,Mangaluru,Biryani & Mughlai,2017,Yes,Yes,1334.0,26.5,16.4,3.3,801.0,1509.0,FSSAI-REG-972705,Partner tier B
+ZMT-5483,Bistro Diner 3,Delhi NCR,Fast Food & Burgers,2019,Yes,Yes,1497.0,29.0,25.4,3.5,984.0,1598.0,FSSAI-REG-902916,Onboarding complete
+ZMT-5484,Saffron House 4,Bengaluru,Chinese & Asian,2024,Yes,No,586.0,31.5,32.3,3.8,767.0,2459.0,FSSAI-REG-951421,Standard listing
+ZMT-5485,Golden Pavilion 5,Delhi NCR,North Indian,2015,Yes,No,665.0,31.5,22.0,3.8,768.0,,FSSAI-REG-380153,Verified menu v1
+ZMT-5486,Aroma Hub 6,Bengaluru,North Indian,2020,No,No,1600.0,23.1,7.6,3.7,1081.0,1779.0,FSSAI-REG-447635,Verified menu v1
+ZMT-5487,Saffron Platter 7,Hyderabad,Fast Food & Burgers,2016,Yes,Yes,533.0,29.0,26.0,4.0,725.0,2121.0,FSSAI-REG-396858,Partner tier B
+ZMT-5488,Saffron Corner 8,Mysuru,Biryani & Mughlai,2022,Yes,No,482.0,26.5,29.3,3.8,786.0,2063.0,FSSAI-REG-747339,Onboarding complete
+ZMT-5489,Street Courtyard 9,Bengaluru,South Indian,2017,Yes,Yes,1260.0,33.2,14.7,4.5,894.0,2174.0,FSSAI-REG-159995,Onboarding complete
+ZMT-5490,Classic Pavilion 10,Chennai,North Indian,2017,Yes,No,1220.0,33.7,34.5,3.9,1033.0,2031.0,FSSAI-REG-128124,Partner tier B
+ZMT-5491,Street Table 11,Mangaluru,Biryani & Mughlai,2017,No,Yes,882.0,39.7,27.2,3.2,672.0,1259.0,FSSAI-REG-187782,Onboarding complete
+ZMT-5492,Urban Table 12,Pune,North Indian,2023,No,No,379.0,35.9,23.6,3.8,1166.0,1923.0,FSSAI-REG-291580,Standard listing
+ZMT-5493,Urban Kitchen 13,Chennai,Cafe & Desserts,2025,Yes,Yes,254.0,29.0,11.0,4.0,917.0,1731.0,FSSAI-REG-764603,Partner tier B
+ZMT-5494,Urban Table 14,Hyderabad,Cafe & Desserts,2016,Yes,No,198.0,35.8,30.4,4.1,953.0,2061.0,FSSAI-REG-910683,Partner tier B
+ZMT-5495,Green Corner 15,Mangaluru,North Indian,2022,Yes,Yes,937.0,38.3,19.5,3.1,752.0,1650.0,FSSAI-REG-267442,Verified menu v1
+ZMT-5496,Street Cafe 16,Hyderabad,South Indian,2024,Yes,No,511.0,24.8,7.2,3.4,766.0,1358.0,FSSAI-REG-922544,Onboarding complete
+ZMT-5497,Namma Pavilion 17,Mumbai,Fast Food & Burgers,2021,Yes,No,1793.0,36.5,36.5,3.3,1079.0,1842.0,FSSAI-REG-456474,Standard listing
+ZMT-5498,Royal Hub 18,Mysuru,Chinese & Asian,2021,Yes,No,730.0,34.3,30.8,3.6,841.0,2049.0,FSSAI-REG-476364,Onboarding complete
+ZMT-5499,Bistro Table 19,Chennai,Cafe & Desserts,2022,Yes,No,,43.1,27.6,4.0,781.0,2054.0,FSSAI-REG-491746,Partner tier B
+ZMT-5500,Saffron Platter 20,Bengaluru,Cafe & Desserts,2025,Yes,No,1457.0,32.3,32.6,3.9,878.0,1968.0,FSSAI-REG-342056,Partner tier B
+ZMT-5501,Crave Table 21,Mumbai,Biryani & Mughlai,2018,Yes,Yes,263.0,35.1,36.7,3.7,740.0,1912.0,FSSAI-REG-626539,Standard listing
+ZMT-5502,Bistro Bites 22,Mangaluru,Chinese & Asian,2020,Yes,Yes,415.0,22.4,21.9,4.5,,2117.0,FSSAI-REG-303037,Verified menu v1
+ZMT-5503,Tandoori Hub 23,Pune,Biryani & Mughlai,2020,Yes,No,497.0,32.3,35.7,3.5,690.0,1901.0,FSSAI-REG-712291,Verified menu v1
+ZMT-5504,Crave Corner 24,Mangaluru,Italian & Pizza,2018,Yes,No,1121.0,29.2,40.0,3.9,740.0,2373.0,FSSAI-REG-210184,Onboarding complete
+ZMT-5505,Flavours Courtyard 25,Mysuru,Fast Food & Burgers,2022,Yes,No,819.0,34.5,15.5,4.1,2188.0,1728.0,FSSAI-REG-490567,Partner tier B
+ZMT-5506,Flavours Express 26,Mangaluru,Italian & Pizza,2015,Yes,No,,22.8,33.2,4.1,901.0,2192.0,FSSAI-REG-650931,Onboarding complete
+ZMT-5507,Urban Courtyard 27,Pune,Italian & Pizza,2018,Yes,Yes,250.0,27.6,35.1,3.8,769.0,2026.0,FSSAI-REG-503991,Verified menu v1
+ZMT-5508,Spice Pavilion 28,Pune,South Indian,2021,Yes,No,1532.0,35.8,21.4,3.7,,1917.0,FSSAI-REG-591182,Standard listing
+ZMT-5509,Spice Express 29,Delhi NCR,South Indian,2018,Yes,Yes,650.0,28.6,32.7,3.8,840.0,1521.0,FSSAI-REG-319150,Partner tier B
+ZMT-5510,Bistro Diner 30,Hyderabad,North Indian,2015,Yes,No,558.0,34.1,26.2,3.9,,1877.0,FSSAI-REG-495728,Partner tier B
+ZMT-5511,Flavours Cafe 1,Mangaluru,Fast Food & Burgers,2021,Yes,No,1145.0,36.1,39.6,3.7,972.0,2037.0,FSSAI-REG-321907,Verified menu v1
+ZMT-5512,Classic Darbar 2,Bengaluru,South Indian,2019,No,No,1462.0,32.0,15.2,3.4,755.0,1666.0,FSSAI-REG-228544,Standard listing
+ZMT-5513,Green Grill 3,Bengaluru,Biryani & Mughlai,2023,No,No,1489.0,27.8,5.6,3.1,792.0,1290.0,FSSAI-REG-381510,Standard listing
+ZMT-5514,Spice Table 4,Bengaluru,Biryani & Mughlai,2017,No,No,688.0,29.5,19.9,3.4,1088.0,1770.0,FSSAI-REG-915583,Partner tier B
+ZMT-5515,Royal Hub 5,Hyderabad,North Indian,2022,No,No,653.0,32.5,17.6,4.3,836.0,2006.0,FSSAI-REG-595113,Standard listing
+ZMT-5516,Namma Grill 6,Mumbai,South Indian,2019,Yes,No,1387.0,30.2,11.5,4.1,838.0,1866.0,FSSAI-REG-491585,Onboarding complete
+ZMT-5517,Urban Darbar 7,Mangaluru,Chinese & Asian,2024,Yes,No,829.0,44.8,29.6,3.6,1146.0,1929.0,FSSAI-REG-976951,Partner tier B
+ZMT-5518,Bistro Bites 8,Chennai,Biryani & Mughlai,2017,Yes,No,1055.0,28.8,39.6,3.7,789.0,2100.0,FSSAI-REG-520316,Verified menu v1
+ZMT-5519,Flavours junction 9,Chennai,Italian & Pizza,2015,No,No,1367.0,35.5,35.8,3.5,647.0,1923.0,FSSAI-REG-453293,Verified menu v1
+ZMT-5520,Classic Kitchen 10,Bengaluru,Biryani & Mughlai,2019,Yes,Yes,,29.2,30.7,3.3,673.0,1489.0,FSSAI-REG-776402,Standard listing
+ZMT-5521,Urban Pavilion 11,Mumbai,North Indian,2019,No,No,395.0,26.8,22.7,4.1,840.0,2017.0,FSSAI-REG-419641,Standard listing
+ZMT-5522,Coastal Diner 12,Bengaluru,Coastal Seafood,2022,Yes,Yes,636.0,34.7,29.0,4.2,1265.0,2028.0,FSSAI-REG-211161,Verified menu v1
+ZMT-5523,Spice Grill 13,Bengaluru,Fast Food & Burgers,2018,Yes,No,1382.0,41.5,18.7,3.4,837.0,1878.0,FSSAI-REG-187206,Onboarding complete
+ZMT-5524,Street Platter 14,Mumbai,Fast Food & Burgers,2022,Yes,Yes,737.0,38.3,15.2,3.8,988.0,1698.0,FSSAI-REG-773088,Verified menu v1
+ZMT-5525,Aroma Diner 15,Bengaluru,Fast Food & Burgers,2023,Yes,No,1415.0,33.0,13.7,3.8,920.0,1840.0,FSSAI-REG-832599,Partner tier B
+ZMT-5526,Classic House 16,Mysuru,Fast Food & Burgers,2023,Yes,Yes,498.0,35.2,7.8,4.1,,1767.0,FSSAI-REG-698995,Partner tier B
+ZMT-5527,Green Darbar 17,Hyderabad,South Indian,2022,Yes,No,424.0,30.5,9.9,3.4,684.0,1394.0,FSSAI-REG-569203,Partner tier B
+ZMT-5528,Green Express 18,Bengaluru,Biryani & Mughlai,2023,Yes,No,578.0,27.2,8.5,3.7,917.0,1556.0,FSSAI-REG-822076,Verified menu v1
+ZMT-5529,Classic Platter 19,Hyderabad,South Indian,2017,No,No,1690.0,48.0,17.0,3.5,745.0,1562.0,FSSAI-REG-140711,Onboarding complete
+ZMT-5530,Aroma junction 20,Pune,Cafe & Desserts,2024,No,No,1721.0,48.2,16.6,3.4,1031.0,1790.0,FSSAI-REG-628483,Partner tier B
+ZMT-5531,Aroma Express 21,Bengaluru,Chinese & Asian,2025,Yes,Yes,1148.0,38.4,33.5,3.7,961.0,1928.0,FSSAI-REG-131504,Partner tier B
+ZMT-5532,Street Diner 22,Delhi NCR,Biryani & Mughlai,2019,Yes,Yes,,32.5,9.3,3.5,806.0,1402.0,FSSAI-REG-306618,Standard listing
+ZMT-5533,Saffron Bites 23,Pune,Cafe & Desserts,2025,Yes,No,319.0,29.8,18.4,3.7,989.0,1722.0,FSSAI-REG-156641,Onboarding complete
+ZMT-5534,Classic Darbar 24,Mumbai,South Indian,2020,Yes,Yes,757.0,27.6,26.4,3.5,947.0,1920.0,FSSAI-REG-219080,Standard listing
+ZMT-5535,Tandoori Platter 25,Bengaluru,Coastal Seafood,2023,Yes,No,208.0,26.7,8.5,3.7,1268.0,1396.0,FSSAI-REG-464608,Partner tier B
+ZMT-5536,Green Diner 26,Bengaluru,Fast Food & Burgers,2021,No,No,244.0,43.4,24.9,3.4,1098.0,1549.0,FSSAI-REG-530397,Standard listing
+ZMT-5537,Namma Pavilion 27,Pune,Cafe & Desserts,2016,Yes,Yes,1225.0,21.5,24.2,,841.0,2269.0,FSSAI-REG-474472,Partner tier B
+ZMT-5538,Coastal Cafe 28,Bengaluru,North Indian,2025,Yes,Yes,501.0,44.1,6.7,3.9,895.0,1628.0,FSSAI-REG-639241,Standard listing
+ZMT-5539,Namma Bites 29,Mangaluru,Biryani & Mughlai,2023,Yes,No,210.0,40.2,5.1,3.6,675.0,1931.0,FSSAI-REG-579217,Verified menu v1
+ZMT-5540,Royal Kitchen 30,Hyderabad,South Indian,2023,Yes,Yes,547.0,39.4,12.4,3.4,1089.0,1694.0,FSSAI-REG-243675,Onboarding complete
+ZMT-5541,Urban Platter 1,Delhi NCR,Cafe & Desserts,2025,No,No,219.0,29.7,34.8,3.2,1164.0,1831.0,FSSAI-REG-798046,Standard listing
+ZMT-5542,Spice junction 2,Hyderabad,North Indian,2015,Yes,Yes,283.0,35.5,22.1,3.7,838.0,1921.0,FSSAI-REG-977933,Partner tier B
+ZMT-5543,Street Corner 3,Bengaluru,North Indian,2024,Yes,Yes,636.0,35.9,11.6,4.2,891.0,1830.0,FSSAI-REG-472036,Onboarding complete
+ZMT-5544,Saffron Cafe 4,Bengaluru,Biryani & Mughlai,2019,Yes,Yes,1057.0,32.3,17.9,3.6,1023.0,1896.0,FSSAI-REG-829661,Verified menu v1
+ZMT-5545,Namma junction 5,Bengaluru,Cafe & Desserts,2020,Yes,No,1523.0,31.9,18.9,3.4,994.0,1760.0,FSSAI-REG-559737,Onboarding complete
+ZMT-5546,Golden Courtyard 6,Mumbai,Fast Food & Burgers,2016,Yes,No,464.0,26.1,15.3,4.2,992.0,1839.0,FSSAI-REG-788029,Verified menu v1
+ZMT-5547,Spice Platter 7,Mysuru,Cafe & Desserts,2018,Yes,No,622.0,34.7,12.4,4.2,774.0,1864.0,FSSAI-REG-382714,Partner tier B
+ZMT-5548,Golden Kitchen 8,Mysuru,Chinese & Asian,2023,Yes,No,1023.0,21.1,21.0,4.1,767.0,2139.0,FSSAI-REG-541593,Partner tier B
+ZMT-5549,Classic Courtyard 9,Pune,South Indian,2022,No,No,589.0,33.5,5.5,3.1,614.0,1428.0,FSSAI-REG-983817,Standard listing
+ZMT-5550,Classic Grill 10,Bengaluru,South Indian,2018,Yes,No,1090.0,37.0,23.9,4.2,929.0,1840.0,FSSAI-REG-970011,Onboarding complete
